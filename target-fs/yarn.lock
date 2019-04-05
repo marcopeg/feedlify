@@ -628,11 +628,6 @@
     "@feedlify/source-twitter" "^0.0.1"
     async "^2.6.2"
 
-"@feedlify/git@^0.0.0":
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/@feedlify/git/-/git-0.0.0.tgz#77c0b6c56473c4712b5a5a01d678ba3943d57dc7"
-  integrity sha512-gFutSDaUCDrENXOeqfEdtfaG8K9yLuz2Hn9lTdvbG4YfgqNZ9ZWyik7EdNxDBtBOx/k/nVvLeX9lqnSJr2JFGQ==
-
 "@feedlify/source-instagram@^0.0.0":
   version "0.0.0"
   resolved "https://registry.yarnpkg.com/@feedlify/source-instagram/-/source-instagram-0.0.0.tgz#8b7878f5be83ce6d70dbd145589d934354b92915"

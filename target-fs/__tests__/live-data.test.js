@@ -1,55 +1,20 @@
-// import aggregateFeed from '../lib/index'
+import fs from 'fs-extra'
+import path from 'path'
 
-// Mock external libraries
-// import sourceInstagram from '@feedlify/source-instagram'
-// import sourceTwitter from '@feedlify/source-twitter'
-// jest.mock('@feedlify/source-instagram')
-// jest.mock('@feedlify/source-twitter')
-// sourceInstagram.mockImplementation(() => {
-//     const fixture = require('./fixtures/results-instagram.json')
-//     fixture.timeline = fixture.timeline.map(item => ({ ...item, ctime: new Date(item.ctime)}))
-//     return fixture
-// })
-// sourceTwitter.mockImplementation(() => {
-//     const fixture = require('./fixtures/results-twitter.json')
-//     fixture.timeline = fixture.timeline.map(item => ({ ...item, ctime: new Date(item.ctime)}))
-//     return fixture
-// })
+import targetFs from '../lib/index'
+
+const TMP_FOLDER = '/tmp/feedly/target-fs/repo1'
 
 describe('LiveData', () => {
     jest.setTimeout(60000)
+
+    beforeEach(async () => {
+        await fs.remove(TMP_FOLDER)
+        await fs.copy(path.join(__dirname, 'fixtures', 'repo1'), TMP_FOLDER)
+    })
+
     test('it should work', async () => {
-        // const data = await aggregateFeed({
-        //     origins: [
-        //         {
-        //             type: 'twitter',
-        //             source: 'GettyImages',
-        //         },
-        //         {
-        //             type: 'twitter',
-        //             source: 'thepeg',
-        //         },
-        //         {
-        //             type: 'instagram',
-        //             source: 'mpeg',
-        //         },
-        //         {
-        //             type: 'instagram',
-        //             source: 'i_love_being_healthy_88',
-        //         },
-        //     ]
-        // }, {
-        //     limit: 4,
-        //     limitOrigins: 4
-        // })
-
-        // expect(data.profiles['twitter::thepeg']).toHaveProperty('username', 'thepeg')
-        // expect(data.timeline.length).toBe(64)
-
-        // // -- debug for testing
-        // // const path = require('path')
-        // // const fs = require('fs-extra')
-        // // fs.writeJSONSync(path.join(__dirname, `./fixtures/results.json`), data, { spaces: 4 })
-        // // -- debug for testing
+        const report = await targetFs(path.join('/tmp/feedly/target-fs/repo1', 'general'))
+        console.log(report)
     })
 })

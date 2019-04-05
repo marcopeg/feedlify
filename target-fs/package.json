@@ -6,7 +6,7 @@
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-dir lib",
     "start": "./node_modules/.bin/babel --watch src --out-dir lib",
-    "test": "./node_modules/.bin/jest",
+    "test": "./node_modules/.bin/jest -i",
     "release": "npm run build && npm publish --access=public"
   },
   "repository": {
@@ -35,7 +35,6 @@
     "jest-fetch-mock": "^2.1.1"
   },
   "dependencies": {
-    "@feedlify/feed-aggregator": "^0.0.0",
-    "@feedlify/git": "^0.0.0"
+    "@feedlify/feed-aggregator": "^0.0.0"
   }
 }
