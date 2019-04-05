@@ -1,0 +1,887 @@
+[
+    {
+        "screenName": "thepeg",
+        "id": "1111301402389811203",
+        "time": "2019-03-28T16:17:55.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "This image removes unreferenced images with a retention plan: you can keep the last N tags for a specific image, but remove the others - https://github.com/marcopeg/docker-vacuum … #docker #cleanup #disk #maintenance #devops #automation #prune #system #volumes #containers",
+        "userMentions": [],
+        "hashtags": [
+            {
+                "hashtag": "docker",
+                "indices": [
+                    181,
+                    188
+                ]
+            },
+            {
+                "hashtag": "cleanup",
+                "indices": [
+                    189,
+                    197
+                ]
+            },
+            {
+                "hashtag": "disk",
+                "indices": [
+                    198,
+                    203
+                ]
+            },
+            {
+                "hashtag": "maintenance",
+                "indices": [
+                    204,
+                    216
+                ]
+            },
+            {
+                "hashtag": "devops",
+                "indices": [
+                    217,
+                    224
+                ]
+            },
+            {
+                "hashtag": "automation",
+                "indices": [
+                    225,
+                    236
+                ]
+            },
+            {
+                "hashtag": "prune",
+                "indices": [
+                    237,
+                    243
+                ]
+            },
+            {
+                "hashtag": "system",
+                "indices": [
+                    244,
+                    251
+                ]
+            },
+            {
+                "hashtag": "volumes",
+                "indices": [
+                    252,
+                    260
+                ]
+            },
+            {
+                "hashtag": "containers",
+                "indices": [
+                    261,
+                    272
+                ]
+            }
+        ],
+        "images": [ "https://pbs.twimg.com/media/D0OSGtyVAAAck4Z.jpg" ],
+        "urls": [
+            {
+                "url": "https://github.com/marcopeg/docker-vacuum",
+                "indices": [
+                    137,
+                    178
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 0
+    },
+    {
+        "screenName": "kuizinas",
+        "id": "1107954517004484609",
+        "time": "2019-03-19T10:38:36.000Z",
+        "isRetweet": true,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "@GitHub This feature is detrimental to the function of the platform. Allow repository owners to disable all notifications, but allow community to continue conversation. Time after time I discover an issue that I would have a valuable contribution to but it is locked.",
+        "userMentions": [
+            {
+                "screenName": "GitHub",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "hashtags": [],
+        "images": [
+            "https://pbs.twimg.com/media/D2A-we5W0AAe_1s.jpg"
+        ],
+        "urls": [],
+        "replyCount": 1,
+        "retweetCount": 1,
+        "favoriteCount": 1
+    },
+    {
+        "screenName": "AdamRutherford",
+        "id": "1107938373057036289",
+        "time": "2019-03-19T09:34:27.000Z",
+        "isRetweet": true,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "In telling this story, which never happened, the President of the United States directly links the fictional execution with extra cruelty of 49 Muslims with peace.\n\nIs this not incitement to violence? Is it not hate speech? https://twitter.com/jetfury/status/1107788876582662144 …",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [],
+        "urls": [
+            {
+                "url": "https://twitter.com/jetfury/status/1107788876582662144",
+                "indices": [
+                    224,
+                    278
+                ]
+            }
+        ],
+        "replyCount": 18,
+        "retweetCount": 69,
+        "favoriteCount": 157
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1107913714865451010",
+        "time": "2019-03-19T07:56:28.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "Hi guys, last few seats left for tomorrow’s MalmoJS talk:\nhttps://foocafe.org/malmoe/events/2055-can-you-download-the-whole-instagram …\n\nJoin me there! \nPizza and beer is on me ;-)\n\n#nodejs #postgres #scraper #bigdata #searchengine #teamwork #team #opensource",
+        "userMentions": [],
+        "hashtags": [
+            {
+                "hashtag": "nodejs",
+                "indices": [
+                    182,
+                    189
+                ]
+            },
+            {
+                "hashtag": "postgres",
+                "indices": [
+                    190,
+                    199
+                ]
+            },
+            {
+                "hashtag": "scraper",
+                "indices": [
+                    200,
+                    208
+                ]
+            },
+            {
+                "hashtag": "bigdata",
+                "indices": [
+                    209,
+                    217
+                ]
+            },
+            {
+                "hashtag": "searchengine",
+                "indices": [
+                    218,
+                    231
+                ]
+            },
+            {
+                "hashtag": "teamwork",
+                "indices": [
+                    232,
+                    241
+                ]
+            },
+            {
+                "hashtag": "team",
+                "indices": [
+                    242,
+                    247
+                ]
+            },
+            {
+                "hashtag": "opensource",
+                "indices": [
+                    248,
+                    259
+                ]
+            }
+        ],
+        "images": [],
+        "urls": [
+            {
+                "url": "https://foocafe.org/malmoe/events/2055-can-you-download-the-whole-instagram",
+                "indices": [
+                    58,
+                    133
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 0
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1107894765893357569",
+        "time": "2019-03-19T06:41:10.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "Antivax is a government conspiracy to reduce global population in the upcoming 20 years, so that oil can last longer. True story. #antivax #conspiracy #freedom #government #publichealth #Health #population",
+        "userMentions": [],
+        "hashtags": [
+            {
+                "hashtag": "antivax",
+                "indices": [
+                    130,
+                    138
+                ]
+            },
+            {
+                "hashtag": "conspiracy",
+                "indices": [
+                    139,
+                    150
+                ]
+            },
+            {
+                "hashtag": "freedom",
+                "indices": [
+                    151,
+                    159
+                ]
+            },
+            {
+                "hashtag": "government",
+                "indices": [
+                    160,
+                    171
+                ]
+            },
+            {
+                "hashtag": "publichealth",
+                "indices": [
+                    172,
+                    185
+                ]
+            },
+            {
+                "hashtag": "Health",
+                "indices": [
+                    186,
+                    193
+                ]
+            },
+            {
+                "hashtag": "population",
+                "indices": [
+                    194,
+                    205
+                ]
+            }
+        ],
+        "images": [],
+        "urls": [],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 0
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1107161410478452736",
+        "time": "2019-03-17T06:07:04.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "It's a sad day for Open Source project management, as http://waffle.io  is closing down - https://waffle.io/closing-its-doors … // Thank you for the trip!",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [],
+        "urls": [
+            {
+                "url": "http://waffle.io",
+                "indices": [
+                    54,
+                    70
+                ]
+            },
+            {
+                "url": "https://waffle.io/closing-its-doors",
+                "indices": [
+                    90,
+                    125
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 0
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1106839064806899714",
+        "time": "2019-03-16T08:46:11.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "I'm turning 38 this year. Luckily I still enjoy working with youngsters 😀",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [],
+        "urls": [
+            {
+                "url": "https://twitter.com/css/status/1106303236519137282",
+                "indices": [
+                    72,
+                    122
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 3,
+        "quote": {
+            "screenName": "css",
+            "id": "1106303236519137282",
+            "text": "> The median age of Google and Amazon employees is 30, whereas the median age of American workers is 42.\n\nThe Planned Obsolescence of Old Coders https://onezero.medium.com/ctrl-alt-delete-the-planned-obsolescence-of-old-coders-9c5f440ee68 …"
+        }
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1106454710549204993",
+        "time": "2019-03-15T07:18:54.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "Works with code as well! Best strategy ever 🤘",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [],
+        "urls": [
+            {
+                "url": "https://twitter.com/css/status/1106251150280585228",
+                "indices": [
+                    44,
+                    94
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 0,
+        "quote": {
+            "screenName": "css",
+            "id": "1106251150280585228",
+            "text": "A CSS debugging technique by @flaviocopes: Delete half your CSS? Problem still there? Delete another half. That fix it? It's in there. \"Bisecting.\"\n\nhttps://flaviocopes.com/css-debugging-bisect/ …\n\n(Like building a Reduced Test Case: https://css-tricks.com/reduced-test-cases/ …)"
+        }
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1105741372320071685",
+        "time": "2019-03-13T08:04:21.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "I'm not so keen on working from home: at home I'm more productive, less distracted and get more stuff done. But I often feel lonely and there is no compensation for loneliness. #wfh #office #Productivity #WorkFromHome #gid",
+        "userMentions": [],
+        "hashtags": [
+            {
+                "hashtag": "wfh",
+                "indices": [
+                    177,
+                    181
+                ]
+            },
+            {
+                "hashtag": "office",
+                "indices": [
+                    182,
+                    189
+                ]
+            },
+            {
+                "hashtag": "Productivity",
+                "indices": [
+                    190,
+                    203
+                ]
+            },
+            {
+                "hashtag": "WorkFromHome",
+                "indices": [
+                    204,
+                    217
+                ]
+            },
+            {
+                "hashtag": "gid",
+                "indices": [
+                    218,
+                    222
+                ]
+            }
+        ],
+        "images": [],
+        "urls": [],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 1
+    },
+    {
+        "screenName": "obensource",
+        "id": "1105489886100910081",
+        "time": "2019-03-12T15:25:02.000Z",
+        "isRetweet": true,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "🎉🎂🎉 HAPPY 30TH TO THE WWW! 🎉🎂🎉\n\nThank you @timberners_lee, @mozilla (Mosaic, Netscape), @BrendanEich, et al! 👏👏👏",
+        "userMentions": [
+            {
+                "screenName": "timberners_lee",
+                "indices": [
+                    36,
+                    51
+                ]
+            },
+            {
+                "screenName": "mozilla",
+                "indices": [
+                    53,
+                    61
+                ]
+            },
+            {
+                "screenName": "BrendanEich",
+                "indices": [
+                    82,
+                    94
+                ]
+            }
+        ],
+        "hashtags": [],
+        "images": [],
+        "urls": [],
+        "replyCount": 0,
+        "retweetCount": 3,
+        "favoriteCount": 11
+    },
+    {
+        "screenName": "JoshConstine",
+        "id": "1103691675136749568",
+        "time": "2019-03-07T16:19:35.000Z",
+        "isRetweet": true,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "It’s never too late for better product design",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [
+            "https://pbs.twimg.com/media/D1EZufBU4AAn96q.jpg",
+            "https://pbs.twimg.com/media/D1EZufFUwAAvpHf.jpg",
+            "https://pbs.twimg.com/media/D1EZufBU8AA_G_t.jpg"
+        ],
+        "urls": [],
+        "replyCount": 99,
+        "retweetCount": 49374,
+        "favoriteCount": 70010
+    },
+    {
+        "screenName": "JavaScriptDaily",
+        "id": "1104032775840153602",
+        "time": "2019-03-08T14:55:00.000Z",
+        "isRetweet": true,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "JavaScript Symbols: But Why?",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [],
+        "urls": [
+            {
+                "url": "https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c",
+                "indices": [
+                    28,
+                    96
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 50,
+        "favoriteCount": 133
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1103679537760649218",
+        "time": "2019-03-07T15:31:21.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "How to store files in the Cloud with Stuffer - https://marcopeg.com/2019/coding-the-stuffer … #uploads #storage #service #files #resize #s3 #tutorial #howto",
+        "userMentions": [],
+        "hashtags": [
+            {
+                "hashtag": "uploads",
+                "indices": [
+                    94,
+                    102
+                ]
+            },
+            {
+                "hashtag": "storage",
+                "indices": [
+                    103,
+                    111
+                ]
+            },
+            {
+                "hashtag": "service",
+                "indices": [
+                    112,
+                    120
+                ]
+            },
+            {
+                "hashtag": "files",
+                "indices": [
+                    121,
+                    127
+                ]
+            },
+            {
+                "hashtag": "resize",
+                "indices": [
+                    128,
+                    135
+                ]
+            },
+            {
+                "hashtag": "s3",
+                "indices": [
+                    136,
+                    139
+                ]
+            },
+            {
+                "hashtag": "tutorial",
+                "indices": [
+                    140,
+                    149
+                ]
+            },
+            {
+                "hashtag": "howto",
+                "indices": [
+                    150,
+                    156
+                ]
+            }
+        ],
+        "images": [],
+        "urls": [
+            {
+                "url": "https://marcopeg.com/2019/coding-the-stuffer",
+                "indices": [
+                    47,
+                    91
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 0
+    },
+    {
+        "screenName": "bterlson",
+        "id": "1101592386348576768",
+        "time": "2019-03-01T21:17:46.000Z",
+        "isRetweet": true,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "Many of you interview candidates by asking technical questions around linked lists, graphs, sort algorithms, Big-O notation, or other core CSci concepts. You should really consider whether these are critical skills for your team. IME, chances are they're not. At all.",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [],
+        "urls": [],
+        "replyCount": 9,
+        "retweetCount": 28,
+        "favoriteCount": 138
+    },
+    {
+        "screenName": "ploeh",
+        "id": "1101442797436055552",
+        "time": "2019-03-01T11:23:21.000Z",
+        "isRetweet": true,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "Software development productivity has little correlation to how fast you can produce code.\n\nIt's closer related to the total cost of ownership of that code.\n\nSome code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting.",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [],
+        "urls": [],
+        "replyCount": 24,
+        "retweetCount": 510,
+        "favoriteCount": 1239
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1101041333022658560",
+        "time": "2019-02-28T08:48:04.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "Don’t teach your kid to code. Teach them to communicate - https://medium.com/s/story/these-are-the-skills-your-kids-will-need-for-the-future-hint-its-not-coding-9b5d47f372f1 … #future #coding #learning #communication #Softskills",
+        "userMentions": [],
+        "hashtags": [
+            {
+                "hashtag": "future",
+                "indices": [
+                    176,
+                    183
+                ]
+            },
+            {
+                "hashtag": "coding",
+                "indices": [
+                    184,
+                    191
+                ]
+            },
+            {
+                "hashtag": "learning",
+                "indices": [
+                    192,
+                    201
+                ]
+            },
+            {
+                "hashtag": "communication",
+                "indices": [
+                    202,
+                    216
+                ]
+            },
+            {
+                "hashtag": "Softskills",
+                "indices": [
+                    217,
+                    228
+                ]
+            }
+        ],
+        "images": [],
+        "urls": [
+            {
+                "url": "https://medium.com/s/story/these-are-the-skills-your-kids-will-need-for-the-future-hint-its-not-coding-9b5d47f372f1",
+                "indices": [
+                    58,
+                    173
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 2
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1100783444538388481",
+        "time": "2019-02-27T15:43:19.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "ML/AI is a tool. The winner will find how to apply it best!",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [],
+        "urls": [
+            {
+                "url": "https://twitter.com/NearForm/status/1100730253062926336",
+                "indices": [
+                    59,
+                    114
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 1,
+        "quote": {
+            "screenName": "NearForm",
+            "id": "1100730253062926336",
+            "text": "Uber releases Ludwig, an #opensource “toolbox” built on top of Google’s @TensorFlow framework that allows users to train and test #AI models without having to write code.https://venturebeat.com/2019/02/11/uber-releases-ludwig-an-open-source-ai-toolbox-built-on-top-of-tensorflow/ …"
+        }
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1099404589865025536",
+        "time": "2019-02-23T20:24:14.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "In the next #MalmoJS we are going to learn how to use #Javascript for data scraping, and how to deploy an army of #EC2 machines that tackle the problem in #parallel - http://foocafe.com/malmoe/events/2055-can-you-download-the-whole-instagram …",
+        "userMentions": [],
+        "hashtags": [
+            {
+                "hashtag": "MalmoJS",
+                "indices": [
+                    12,
+                    20
+                ]
+            },
+            {
+                "hashtag": "Javascript",
+                "indices": [
+                    54,
+                    65
+                ]
+            },
+            {
+                "hashtag": "EC2",
+                "indices": [
+                    114,
+                    118
+                ]
+            },
+            {
+                "hashtag": "parallel",
+                "indices": [
+                    155,
+                    164
+                ]
+            }
+        ],
+        "images": [],
+        "urls": [
+            {
+                "url": "http://foocafe.com/malmoe/events/2055-can-you-download-the-whole-instagram",
+                "indices": [
+                    167,
+                    241
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 2
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1099374334508961792",
+        "time": "2019-02-23T18:24:01.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "Nice overview on queue architecture. http://Fetchq.com  is a #nodejs / #postgresql implementation that handles all the discussed scenarios plus works easily on a dev machine and scale nicely in the #cloud. #queue #workers #parallel #scalability",
+        "userMentions": [],
+        "hashtags": [
+            {
+                "hashtag": "nodejs",
+                "indices": [
+                    61,
+                    68
+                ]
+            },
+            {
+                "hashtag": "postgresql",
+                "indices": [
+                    71,
+                    82
+                ]
+            },
+            {
+                "hashtag": "cloud",
+                "indices": [
+                    198,
+                    204
+                ]
+            },
+            {
+                "hashtag": "queue",
+                "indices": [
+                    206,
+                    212
+                ]
+            },
+            {
+                "hashtag": "workers",
+                "indices": [
+                    213,
+                    221
+                ]
+            },
+            {
+                "hashtag": "parallel",
+                "indices": [
+                    222,
+                    231
+                ]
+            },
+            {
+                "hashtag": "scalabilityhttps",
+                "indices": [
+                    232,
+                    249
+                ]
+            }
+        ],
+        "images": [],
+        "urls": [
+            {
+                "url": "http://Fetchq.com",
+                "indices": [
+                    37,
+                    54
+                ]
+            },
+            {
+                "url": "scalabilityhttps://twitter.com/JavaScriptDaily/status/1099075864195723265",
+                "indices": [
+                    233,
+                    306
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 1,
+        "favoriteCount": 0,
+        "quote": {
+            "screenName": "JavaScriptDaily",
+            "id": "1099075864195723265",
+            "text": "Divide and Conquer: Scale Your Node App using Distributed Queues - https://blog.logrocket.com/divide-and-conquer-scale-your-node-js-app-using-distributed-queues-8231a9486d3a …"
+        }
+    },
+    {
+        "screenName": "thepeg",
+        "id": "1099341972886773762",
+        "time": "2019-02-23T16:15:25.000Z",
+        "isRetweet": false,
+        "isPinned": false,
+        "isReplyTo": false,
+        "text": "How come employers are still so blind!",
+        "userMentions": [],
+        "hashtags": [],
+        "images": [],
+        "urls": [
+            {
+                "url": "https://twitter.com/joshholmes/status/1099040203275202561",
+                "indices": [
+                    38,
+                    95
+                ]
+            }
+        ],
+        "replyCount": 0,
+        "retweetCount": 0,
+        "favoriteCount": 1,
+        "quote": {
+            "screenName": "joshholmes",
+            "id": "1099040203275202561",
+            "text": "If you are hiring me for my body (hands, feet, carrying heavy stuff, ...), then fine - you can require me to be in the office during specific hours. \nIf you are hiring me for my mind (strategy, design...), you need to give me the flexibility to work where/when my mind works best."
+        }
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "name": "@feedlify/feed-aggregator",
+  "version": "0.0.0",
+  "description": "Builds a feed file with fresh data",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-dir lib",
+    "start": "./node_modules/.bin/babel --watch src --out-dir lib",
+    "test": "./node_modules/.bin/jest",
+    "release": "npm run build && npm run test && npm publish --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feedlify/feed-aggregator.git"
+  },
+  "keywords": [
+    "feedlify",
+    "feed",
+    "aggregator"
+  ],
+  "author": "Marco Pegoraro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feedlify/feed-aggregator/issues"
+  },
+  "homepage": "https://github.com/feedlify/feed-aggregator#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "fs-extra": "^7.0.1",
+    "jest": "^24.5.0",
+    "jest-fetch-mock": "^2.1.1"
+  },
+  "dependencies": {
+    "@feedlify/source-instagram": "^0.0.0",
+    "@feedlify/source-twitter": "^0.0.1",
+    "async": "^2.6.2"
+  }
+}

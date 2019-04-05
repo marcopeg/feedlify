@@ -1,0 +1,3151 @@
+{
+    "timeline": [
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-03-31T07:21:07.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "I found a majestic tool to improve my testing experience with Jest: Majestic! https://github.com/Raathigesh/majestic … - #jest #test #testing #tdd #ui #tools #node #nodejs #javascript",
+            "url": "https://github.com/Raathigesh/majestic",
+            "preview": null,
+            "hashtags": [
+                "jest",
+                "test",
+                "testing",
+                "tdd",
+                "ui",
+                "tools",
+                "node",
+                "nodejs",
+                "javascript"
+            ],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1112253475730141186",
+                "time": "2019-03-31T07:21:07.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "I found a majestic tool to improve my testing experience with Jest: Majestic! https://github.com/Raathigesh/majestic … - #jest #test #testing #tdd #ui #tools #node #nodejs #javascript",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "jest",
+                        "indices": [
+                            121,
+                            126
+                        ]
+                    },
+                    {
+                        "hashtag": "test",
+                        "indices": [
+                            127,
+                            132
+                        ]
+                    },
+                    {
+                        "hashtag": "testing",
+                        "indices": [
+                            133,
+                            141
+                        ]
+                    },
+                    {
+                        "hashtag": "tdd",
+                        "indices": [
+                            142,
+                            146
+                        ]
+                    },
+                    {
+                        "hashtag": "ui",
+                        "indices": [
+                            147,
+                            150
+                        ]
+                    },
+                    {
+                        "hashtag": "tools",
+                        "indices": [
+                            151,
+                            157
+                        ]
+                    },
+                    {
+                        "hashtag": "node",
+                        "indices": [
+                            158,
+                            163
+                        ]
+                    },
+                    {
+                        "hashtag": "nodejs",
+                        "indices": [
+                            164,
+                            171
+                        ]
+                    },
+                    {
+                        "hashtag": "javascript",
+                        "indices": [
+                            172,
+                            183
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://github.com/Raathigesh/majestic",
+                        "indices": [
+                            78,
+                            116
+                        ]
+                    }
+                ],
+                "replyCount": 1,
+                "retweetCount": 0,
+                "favoriteCount": 2
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-03-28T16:17:55.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "This image removes unreferenced images with a retention plan: you can keep the last N tags for a specific image, but remove the others - https://github.com/marcopeg/docker-vacuum … #docker #cleanup #disk #maintenance #devops #automation #prune #system #volumes #containers",
+            "url": "https://github.com/marcopeg/docker-vacuum",
+            "preview": null,
+            "hashtags": [
+                "docker",
+                "cleanup",
+                "disk",
+                "maintenance",
+                "devops",
+                "automation",
+                "prune",
+                "system",
+                "volumes",
+                "containers"
+            ],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1111301402389811203",
+                "time": "2019-03-28T16:17:55.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "This image removes unreferenced images with a retention plan: you can keep the last N tags for a specific image, but remove the others - https://github.com/marcopeg/docker-vacuum … #docker #cleanup #disk #maintenance #devops #automation #prune #system #volumes #containers",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "docker",
+                        "indices": [
+                            181,
+                            188
+                        ]
+                    },
+                    {
+                        "hashtag": "cleanup",
+                        "indices": [
+                            189,
+                            197
+                        ]
+                    },
+                    {
+                        "hashtag": "disk",
+                        "indices": [
+                            198,
+                            203
+                        ]
+                    },
+                    {
+                        "hashtag": "maintenance",
+                        "indices": [
+                            204,
+                            216
+                        ]
+                    },
+                    {
+                        "hashtag": "devops",
+                        "indices": [
+                            217,
+                            224
+                        ]
+                    },
+                    {
+                        "hashtag": "automation",
+                        "indices": [
+                            225,
+                            236
+                        ]
+                    },
+                    {
+                        "hashtag": "prune",
+                        "indices": [
+                            237,
+                            243
+                        ]
+                    },
+                    {
+                        "hashtag": "system",
+                        "indices": [
+                            244,
+                            251
+                        ]
+                    },
+                    {
+                        "hashtag": "volumes",
+                        "indices": [
+                            252,
+                            260
+                        ]
+                    },
+                    {
+                        "hashtag": "containers",
+                        "indices": [
+                            261,
+                            272
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://github.com/marcopeg/docker-vacuum",
+                        "indices": [
+                            137,
+                            178
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 0
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyCreativity",
+            "ctime": "2019-03-28T15:00:20.000Z",
+            "title": "Tweet by @GettyCreativity",
+            "text": "“70% of women don’t feel represented in media and advertising.” See how @Dove, @GirlGaze and @GettyImages are taking action now with Project #ShowUs (link to article on Creative Insights): http://gtty.im/vZl3hXG ",
+            "url": "http://gtty.im/vZl3hXG",
+            "preview": "https://pbs.twimg.com/media/D2wQ-f7X0AAay5U.jpg",
+            "hashtags": [
+                "ShowUs"
+            ],
+            "__meta": {
+                "screenName": "GettyCreativity",
+                "id": "1111281875656589312",
+                "time": "2019-03-28T15:00:20.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "“70% of women don’t feel represented in media and advertising.” See how @Dove, @GirlGaze and @GettyImages are taking action now with Project #ShowUs (link to article on Creative Insights): http://gtty.im/vZl3hXG ",
+                "userMentions": [
+                    {
+                        "screenName": "Dove",
+                        "indices": [
+                            72,
+                            77
+                        ]
+                    },
+                    {
+                        "screenName": "GirlGaze",
+                        "indices": [
+                            79,
+                            88
+                        ]
+                    },
+                    {
+                        "screenName": "GettyImages",
+                        "indices": [
+                            93,
+                            105
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "ShowUs",
+                        "indices": [
+                            141,
+                            148
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/D2wQ-f7X0AAay5U.jpg"
+                ],
+                "urls": [
+                    {
+                        "url": "http://gtty.im/vZl3hXG",
+                        "indices": [
+                            189,
+                            211
+                        ]
+                    }
+                ],
+                "replyCount": 1,
+                "retweetCount": 18,
+                "favoriteCount": 21
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyImages",
+            "ctime": "2019-03-27T20:57:40.000Z",
+            "title": "Tweet by @GettyImages",
+            "text": "Thanks @shondarhimes. We're proud of being a part of this powerful initiative.",
+            "url": "https://twitter.com/shondarhimes/status/1110912567487029249",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "GettyImages",
+                "id": "1111009412871868416",
+                "time": "2019-03-27T20:57:40.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Thanks @shondarhimes. We're proud of being a part of this powerful initiative.",
+                "userMentions": [
+                    {
+                        "screenName": "shondarhimes",
+                        "indices": [
+                            7,
+                            20
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://twitter.com/shondarhimes/status/1110912567487029249",
+                        "indices": [
+                            78,
+                            137
+                        ]
+                    }
+                ],
+                "replyCount": 1,
+                "retweetCount": 4,
+                "favoriteCount": 14,
+                "quote": {
+                    "screenName": "shondarhimes",
+                    "id": "1110912567487029249",
+                    "text": "⚡ @Dove, @Girlgaze, & @GettyImages are working with women everywhere to create Project #ShowUs, the world’s largest stock photo library created by women to shatter beauty stereotypes. Join at  http://Dove.com/ShowUs  #dovepartner pic.twitter.com/SZgE1Nu7sJ"
+                }
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::wolfson32",
+            "ctime": "2019-03-25T15:42:04.000Z",
+            "title": "Tweet by @wolfson32",
+            "text": "The story behind the picture from the first weekend of #MarchMadness  by @TheAthletic featuring @TheOnlyCox of @GettySport \nhttps://theathletic.com/885680/2019/03/24/you-always-look-for-a-moment-how-the-iconic-image-of-the-first-week-of-the-ncaa-tournament-was-captured/ …",
+            "url": "https://theathletic.com/885680/2019/03/24/you-always-look-for-a-moment-how-the-iconic-image-of-the-first-week-of-the-ncaa-tournament-was-captured/",
+            "preview": "https://pbs.twimg.com/media/D2g9sjoUkAUe2-d.jpg",
+            "hashtags": [
+                "MarchMadness"
+            ],
+            "__meta": {
+                "screenName": "wolfson32",
+                "id": "1110205214609424390",
+                "time": "2019-03-25T15:42:04.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "The story behind the picture from the first weekend of #MarchMadness  by @TheAthletic featuring @TheOnlyCox of @GettySport \nhttps://theathletic.com/885680/2019/03/24/you-always-look-for-a-moment-how-the-iconic-image-of-the-first-week-of-the-ncaa-tournament-was-captured/ …",
+                "userMentions": [
+                    {
+                        "screenName": "TheAthletic",
+                        "indices": [
+                            73,
+                            85
+                        ]
+                    },
+                    {
+                        "screenName": "TheOnlyCox",
+                        "indices": [
+                            96,
+                            107
+                        ]
+                    },
+                    {
+                        "screenName": "GettySport",
+                        "indices": [
+                            111,
+                            122
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "MarchMadness",
+                        "indices": [
+                            55,
+                            68
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/D2g9sjoUkAUe2-d.jpg"
+                ],
+                "urls": [
+                    {
+                        "url": "https://theathletic.com/885680/2019/03/24/you-always-look-for-a-moment-how-the-iconic-image-of-the-first-week-of-the-ncaa-tournament-was-captured/",
+                        "indices": [
+                            124,
+                            270
+                        ]
+                    }
+                ],
+                "replyCount": 1,
+                "retweetCount": 12,
+                "favoriteCount": 70
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::kuizinas",
+            "ctime": "2019-03-19T10:38:36.000Z",
+            "title": "Tweet by @kuizinas",
+            "text": "@GitHub This feature is detrimental to the function of the platform. Allow repository owners to disable all notifications, but allow community to continue conversation. Time after time I discover an issue that I would have a valuable contribution to but it is locked.",
+            "url": "https://twitter.com/kuizinas/status/1107954517004484609",
+            "preview": "https://pbs.twimg.com/media/D2A-we5W0AAe_1s.jpg",
+            "hashtags": [],
+            "__meta": {
+                "screenName": "kuizinas",
+                "id": "1107954517004484609",
+                "time": "2019-03-19T10:38:36.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "@GitHub This feature is detrimental to the function of the platform. Allow repository owners to disable all notifications, but allow community to continue conversation. Time after time I discover an issue that I would have a valuable contribution to but it is locked.",
+                "userMentions": [
+                    {
+                        "screenName": "GitHub",
+                        "indices": [
+                            0,
+                            7
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "images": [
+                    "https://pbs.twimg.com/media/D2A-we5W0AAe_1s.jpg"
+                ],
+                "urls": [],
+                "replyCount": 1,
+                "retweetCount": 1,
+                "favoriteCount": 1
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::AdamRutherford",
+            "ctime": "2019-03-19T09:34:27.000Z",
+            "title": "Tweet by @AdamRutherford",
+            "text": "In telling this story, which never happened, the President of the United States directly links the fictional execution with extra cruelty of 49 Muslims with peace.\n\nIs this not incitement to violence? Is it not hate speech? https://twitter.com/jetfury/status/1107788876582662144 …",
+            "url": "https://twitter.com/jetfury/status/1107788876582662144",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "AdamRutherford",
+                "id": "1107938373057036289",
+                "time": "2019-03-19T09:34:27.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "In telling this story, which never happened, the President of the United States directly links the fictional execution with extra cruelty of 49 Muslims with peace.\n\nIs this not incitement to violence? Is it not hate speech? https://twitter.com/jetfury/status/1107788876582662144 …",
+                "userMentions": [],
+                "hashtags": [],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://twitter.com/jetfury/status/1107788876582662144",
+                        "indices": [
+                            224,
+                            278
+                        ]
+                    }
+                ],
+                "replyCount": 18,
+                "retweetCount": 69,
+                "favoriteCount": 157
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-03-19T07:56:28.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "Hi guys, last few seats left for tomorrow’s MalmoJS talk:\nhttps://foocafe.org/malmoe/events/2055-can-you-download-the-whole-instagram …\n\nJoin me there! \nPizza and beer is on me ;-)\n\n#nodejs #postgres #scraper #bigdata #searchengine #teamwork #team #opensource",
+            "url": "https://foocafe.org/malmoe/events/2055-can-you-download-the-whole-instagram",
+            "preview": null,
+            "hashtags": [
+                "nodejs",
+                "postgres",
+                "scraper",
+                "bigdata",
+                "searchengine",
+                "teamwork",
+                "team",
+                "opensource"
+            ],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1107913714865451010",
+                "time": "2019-03-19T07:56:28.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Hi guys, last few seats left for tomorrow’s MalmoJS talk:\nhttps://foocafe.org/malmoe/events/2055-can-you-download-the-whole-instagram …\n\nJoin me there! \nPizza and beer is on me ;-)\n\n#nodejs #postgres #scraper #bigdata #searchengine #teamwork #team #opensource",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "nodejs",
+                        "indices": [
+                            182,
+                            189
+                        ]
+                    },
+                    {
+                        "hashtag": "postgres",
+                        "indices": [
+                            190,
+                            199
+                        ]
+                    },
+                    {
+                        "hashtag": "scraper",
+                        "indices": [
+                            200,
+                            208
+                        ]
+                    },
+                    {
+                        "hashtag": "bigdata",
+                        "indices": [
+                            209,
+                            217
+                        ]
+                    },
+                    {
+                        "hashtag": "searchengine",
+                        "indices": [
+                            218,
+                            231
+                        ]
+                    },
+                    {
+                        "hashtag": "teamwork",
+                        "indices": [
+                            232,
+                            241
+                        ]
+                    },
+                    {
+                        "hashtag": "team",
+                        "indices": [
+                            242,
+                            247
+                        ]
+                    },
+                    {
+                        "hashtag": "opensource",
+                        "indices": [
+                            248,
+                            259
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://foocafe.org/malmoe/events/2055-can-you-download-the-whole-instagram",
+                        "indices": [
+                            58,
+                            133
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 0
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-03-19T06:41:10.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "Antivax is a government conspiracy to reduce global population in the upcoming 20 years, so that oil can last longer. True story. #antivax #conspiracy #freedom #government #publichealth #Health #population",
+            "url": "https://twitter.com/thepeg/status/1107894765893357569",
+            "preview": null,
+            "hashtags": [
+                "antivax",
+                "conspiracy",
+                "freedom",
+                "government",
+                "publichealth",
+                "Health",
+                "population"
+            ],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1107894765893357569",
+                "time": "2019-03-19T06:41:10.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Antivax is a government conspiracy to reduce global population in the upcoming 20 years, so that oil can last longer. True story. #antivax #conspiracy #freedom #government #publichealth #Health #population",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "antivax",
+                        "indices": [
+                            130,
+                            138
+                        ]
+                    },
+                    {
+                        "hashtag": "conspiracy",
+                        "indices": [
+                            139,
+                            150
+                        ]
+                    },
+                    {
+                        "hashtag": "freedom",
+                        "indices": [
+                            151,
+                            159
+                        ]
+                    },
+                    {
+                        "hashtag": "government",
+                        "indices": [
+                            160,
+                            171
+                        ]
+                    },
+                    {
+                        "hashtag": "publichealth",
+                        "indices": [
+                            172,
+                            185
+                        ]
+                    },
+                    {
+                        "hashtag": "Health",
+                        "indices": [
+                            186,
+                            193
+                        ]
+                    },
+                    {
+                        "hashtag": "population",
+                        "indices": [
+                            194,
+                            205
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 0
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-03-17T06:07:04.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "It's a sad day for Open Source project management, as http://waffle.io  is closing down - https://waffle.io/closing-its-doors … // Thank you for the trip!",
+            "url": "http://waffle.io",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1107161410478452736",
+                "time": "2019-03-17T06:07:04.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "It's a sad day for Open Source project management, as http://waffle.io  is closing down - https://waffle.io/closing-its-doors … // Thank you for the trip!",
+                "userMentions": [],
+                "hashtags": [],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "http://waffle.io",
+                        "indices": [
+                            54,
+                            70
+                        ]
+                    },
+                    {
+                        "url": "https://waffle.io/closing-its-doors",
+                        "indices": [
+                            90,
+                            125
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 0
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-03-16T08:46:11.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "I'm turning 38 this year. Luckily I still enjoy working with youngsters 😀",
+            "url": "https://twitter.com/css/status/1106303236519137282",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1106839064806899714",
+                "time": "2019-03-16T08:46:11.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "I'm turning 38 this year. Luckily I still enjoy working with youngsters 😀",
+                "userMentions": [],
+                "hashtags": [],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://twitter.com/css/status/1106303236519137282",
+                        "indices": [
+                            72,
+                            122
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 3,
+                "quote": {
+                    "screenName": "css",
+                    "id": "1106303236519137282",
+                    "text": "> The median age of Google and Amazon employees is 30, whereas the median age of American workers is 42.\n\nThe Planned Obsolescence of Old Coders https://onezero.medium.com/ctrl-alt-delete-the-planned-obsolescence-of-old-coders-9c5f440ee68 …"
+                }
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-03-15T07:18:54.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "Works with code as well! Best strategy ever 🤘",
+            "url": "https://twitter.com/css/status/1106251150280585228",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1106454710549204993",
+                "time": "2019-03-15T07:18:54.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Works with code as well! Best strategy ever 🤘",
+                "userMentions": [],
+                "hashtags": [],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://twitter.com/css/status/1106251150280585228",
+                        "indices": [
+                            44,
+                            94
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 0,
+                "quote": {
+                    "screenName": "css",
+                    "id": "1106251150280585228",
+                    "text": "A CSS debugging technique by @flaviocopes: Delete half your CSS? Problem still there? Delete another half. That fix it? It's in there. \"Bisecting.\"\n\nhttps://flaviocopes.com/css-debugging-bisect/ …\n\n(Like building a Reduced Test Case: https://css-tricks.com/reduced-test-cases/ …)"
+                }
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::mario_tama",
+            "ctime": "2019-03-14T14:49:34.000Z",
+            "title": "Tweet by @mario_tama",
+            "text": "Following a wildfire and heavy winter rains, California’s Lake Elsinore sees a ‘Super Bloom’ of poppies. @GettyImagesNews",
+            "url": "GettyImagesNewshttps://weather.com/travel/news/2019-03-13-super-bloom-flower-show-california#20",
+            "preview": null,
+            "hashtags": [
+                "20"
+            ],
+            "__meta": {
+                "screenName": "mario_tama",
+                "id": "1106205736546140162",
+                "time": "2019-03-14T14:49:34.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Following a wildfire and heavy winter rains, California’s Lake Elsinore sees a ‘Super Bloom’ of poppies. @GettyImagesNews",
+                "userMentions": [
+                    {
+                        "screenName": "GettyImagesNewshttps",
+                        "indices": [
+                            105,
+                            126
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "20",
+                        "indices": [
+                            198,
+                            201
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "GettyImagesNewshttps://weather.com/travel/news/2019-03-13-super-bloom-flower-show-california#20",
+                        "indices": [
+                            106,
+                            201
+                        ]
+                    }
+                ],
+                "replyCount": 2,
+                "retweetCount": 31,
+                "favoriteCount": 85
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-03-13T08:04:21.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "I'm not so keen on working from home: at home I'm more productive, less distracted and get more stuff done. But I often feel lonely and there is no compensation for loneliness. #wfh #office #Productivity #WorkFromHome #gid",
+            "url": "https://twitter.com/thepeg/status/1105741372320071685",
+            "preview": null,
+            "hashtags": [
+                "wfh",
+                "office",
+                "Productivity",
+                "WorkFromHome",
+                "gid"
+            ],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1105741372320071685",
+                "time": "2019-03-13T08:04:21.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "I'm not so keen on working from home: at home I'm more productive, less distracted and get more stuff done. But I often feel lonely and there is no compensation for loneliness. #wfh #office #Productivity #WorkFromHome #gid",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "wfh",
+                        "indices": [
+                            177,
+                            181
+                        ]
+                    },
+                    {
+                        "hashtag": "office",
+                        "indices": [
+                            182,
+                            189
+                        ]
+                    },
+                    {
+                        "hashtag": "Productivity",
+                        "indices": [
+                            190,
+                            203
+                        ]
+                    },
+                    {
+                        "hashtag": "WorkFromHome",
+                        "indices": [
+                            204,
+                            217
+                        ]
+                    },
+                    {
+                        "hashtag": "gid",
+                        "indices": [
+                            218,
+                            222
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 1
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::obensource",
+            "ctime": "2019-03-12T15:25:02.000Z",
+            "title": "Tweet by @obensource",
+            "text": "🎉🎂🎉 HAPPY 30TH TO THE WWW! 🎉🎂🎉\n\nThank you @timberners_lee, @mozilla (Mosaic, Netscape), @BrendanEich, et al! 👏👏👏",
+            "url": "https://twitter.com/obensource/status/1105489886100910081",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "obensource",
+                "id": "1105489886100910081",
+                "time": "2019-03-12T15:25:02.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "🎉🎂🎉 HAPPY 30TH TO THE WWW! 🎉🎂🎉\n\nThank you @timberners_lee, @mozilla (Mosaic, Netscape), @BrendanEich, et al! 👏👏👏",
+                "userMentions": [
+                    {
+                        "screenName": "timberners_lee",
+                        "indices": [
+                            36,
+                            51
+                        ]
+                    },
+                    {
+                        "screenName": "mozilla",
+                        "indices": [
+                            53,
+                            61
+                        ]
+                    },
+                    {
+                        "screenName": "BrendanEich",
+                        "indices": [
+                            82,
+                            94
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "images": [],
+                "urls": [],
+                "replyCount": 0,
+                "retweetCount": 3,
+                "favoriteCount": 11
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::JavaScriptDaily",
+            "ctime": "2019-03-08T14:55:00.000Z",
+            "title": "Tweet by @JavaScriptDaily",
+            "text": "JavaScript Symbols: But Why?",
+            "url": "https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "JavaScriptDaily",
+                "id": "1104032775840153602",
+                "time": "2019-03-08T14:55:00.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "JavaScript Symbols: But Why?",
+                "userMentions": [],
+                "hashtags": [],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c",
+                        "indices": [
+                            28,
+                            96
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 50,
+                "favoriteCount": 134
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::PackardFdn",
+            "ctime": "2019-03-07T23:41:01.000Z",
+            "title": "Tweet by @PackardFdn",
+            "text": "Did you know there are 1,700 #ImagesofEmpowerment from @GettyImages FREE for non-commercial use? These images capture women and girls in decision-making roles, earning income, and accessing and providing #reproductivehealth. Use them on #IWD2019 & beyond! http://imagesofempowerment.org ",
+            "url": "http://imagesofempowerment.org",
+            "preview": "https://pbs.twimg.com/media/D1F-w5XXcAIrC3E.jpg",
+            "hashtags": [
+                "ImagesofEmpowerment",
+                "reproductivehealth",
+                "IWD2019"
+            ],
+            "__meta": {
+                "screenName": "PackardFdn",
+                "id": "1103802766730903552",
+                "time": "2019-03-07T23:41:01.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Did you know there are 1,700 #ImagesofEmpowerment from @GettyImages FREE for non-commercial use? These images capture women and girls in decision-making roles, earning income, and accessing and providing #reproductivehealth. Use them on #IWD2019 & beyond! http://imagesofempowerment.org ",
+                "userMentions": [
+                    {
+                        "screenName": "GettyImages",
+                        "indices": [
+                            55,
+                            67
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "ImagesofEmpowerment",
+                        "indices": [
+                            29,
+                            49
+                        ]
+                    },
+                    {
+                        "hashtag": "reproductivehealth",
+                        "indices": [
+                            204,
+                            223
+                        ]
+                    },
+                    {
+                        "hashtag": "IWD2019",
+                        "indices": [
+                            237,
+                            245
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/D1F-w5XXcAIrC3E.jpg"
+                ],
+                "urls": [
+                    {
+                        "url": "http://imagesofempowerment.org",
+                        "indices": [
+                            256,
+                            286
+                        ]
+                    }
+                ],
+                "replyCount": 1,
+                "retweetCount": 29,
+                "favoriteCount": 55
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::JoshConstine",
+            "ctime": "2019-03-07T16:19:35.000Z",
+            "title": "Tweet by @JoshConstine",
+            "text": "It’s never too late for better product design",
+            "url": "https://twitter.com/JoshConstine/status/1103691675136749568",
+            "preview": "https://pbs.twimg.com/media/D1EZufBU4AAn96q.jpg",
+            "hashtags": [],
+            "__meta": {
+                "screenName": "JoshConstine",
+                "id": "1103691675136749568",
+                "time": "2019-03-07T16:19:35.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "It’s never too late for better product design",
+                "userMentions": [],
+                "hashtags": [],
+                "images": [
+                    "https://pbs.twimg.com/media/D1EZufBU4AAn96q.jpg",
+                    "https://pbs.twimg.com/media/D1EZufFUwAAvpHf.jpg",
+                    "https://pbs.twimg.com/media/D1EZufBU8AA_G_t.jpg"
+                ],
+                "urls": [],
+                "replyCount": 98,
+                "retweetCount": 49375,
+                "favoriteCount": 70003
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-03-07T15:31:21.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "How to store files in the Cloud with Stuffer - https://marcopeg.com/2019/coding-the-stuffer … #uploads #storage #service #files #resize #s3 #tutorial #howto",
+            "url": "https://marcopeg.com/2019/coding-the-stuffer",
+            "preview": null,
+            "hashtags": [
+                "uploads",
+                "storage",
+                "service",
+                "files",
+                "resize",
+                "s3",
+                "tutorial",
+                "howto"
+            ],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1103679537760649218",
+                "time": "2019-03-07T15:31:21.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "How to store files in the Cloud with Stuffer - https://marcopeg.com/2019/coding-the-stuffer … #uploads #storage #service #files #resize #s3 #tutorial #howto",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "uploads",
+                        "indices": [
+                            94,
+                            102
+                        ]
+                    },
+                    {
+                        "hashtag": "storage",
+                        "indices": [
+                            103,
+                            111
+                        ]
+                    },
+                    {
+                        "hashtag": "service",
+                        "indices": [
+                            112,
+                            120
+                        ]
+                    },
+                    {
+                        "hashtag": "files",
+                        "indices": [
+                            121,
+                            127
+                        ]
+                    },
+                    {
+                        "hashtag": "resize",
+                        "indices": [
+                            128,
+                            135
+                        ]
+                    },
+                    {
+                        "hashtag": "s3",
+                        "indices": [
+                            136,
+                            139
+                        ]
+                    },
+                    {
+                        "hashtag": "tutorial",
+                        "indices": [
+                            140,
+                            149
+                        ]
+                    },
+                    {
+                        "hashtag": "howto",
+                        "indices": [
+                            150,
+                            156
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://marcopeg.com/2019/coding-the-stuffer",
+                        "indices": [
+                            47,
+                            91
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 0
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyImages",
+            "ctime": "2019-03-06T19:35:30.000Z",
+            "title": "Tweet by @GettyImages",
+            "text": "We're proud to announce that staff news photographer @somogettynews has been named Photographer of the Year by the National Press Photographers Association. In 2018, Chip has covered Kavanaugh's Supreme Court hearings, Beto's TX Senate run and Hurricane Florence. Congrats Chip!",
+            "url": "https://twitter.com/GettyImages/status/1103378590396280832",
+            "preview": "https://pbs.twimg.com/media/D0_8-vuWsAYeF4u.jpg",
+            "hashtags": [],
+            "__meta": {
+                "screenName": "GettyImages",
+                "id": "1103378590396280832",
+                "time": "2019-03-06T19:35:30.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "We're proud to announce that staff news photographer @somogettynews has been named Photographer of the Year by the National Press Photographers Association. In 2018, Chip has covered Kavanaugh's Supreme Court hearings, Beto's TX Senate run and Hurricane Florence. Congrats Chip!",
+                "userMentions": [
+                    {
+                        "screenName": "somogettynews",
+                        "indices": [
+                            53,
+                            67
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "images": [
+                    "https://pbs.twimg.com/media/D0_8-vuWsAYeF4u.jpg"
+                ],
+                "urls": [],
+                "replyCount": 3,
+                "retweetCount": 18,
+                "favoriteCount": 99
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::bterlson",
+            "ctime": "2019-03-01T21:17:46.000Z",
+            "title": "Tweet by @bterlson",
+            "text": "Many of you interview candidates by asking technical questions around linked lists, graphs, sort algorithms, Big-O notation, or other core CSci concepts. You should really consider whether these are critical skills for your team. IME, chances are they're not. At all.",
+            "url": "https://twitter.com/bterlson/status/1101592386348576768",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "bterlson",
+                "id": "1101592386348576768",
+                "time": "2019-03-01T21:17:46.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Many of you interview candidates by asking technical questions around linked lists, graphs, sort algorithms, Big-O notation, or other core CSci concepts. You should really consider whether these are critical skills for your team. IME, chances are they're not. At all.",
+                "userMentions": [],
+                "hashtags": [],
+                "images": [],
+                "urls": [],
+                "replyCount": 9,
+                "retweetCount": 28,
+                "favoriteCount": 138
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::ploeh",
+            "ctime": "2019-03-01T11:23:21.000Z",
+            "title": "Tweet by @ploeh",
+            "text": "Software development productivity has little correlation to how fast you can produce code.\n\nIt's closer related to the total cost of ownership of that code.\n\nSome code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting.",
+            "url": "https://twitter.com/ploeh/status/1101442797436055552",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "ploeh",
+                "id": "1101442797436055552",
+                "time": "2019-03-01T11:23:21.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Software development productivity has little correlation to how fast you can produce code.\n\nIt's closer related to the total cost of ownership of that code.\n\nSome code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting.",
+                "userMentions": [],
+                "hashtags": [],
+                "images": [],
+                "urls": [],
+                "replyCount": 24,
+                "retweetCount": 510,
+                "favoriteCount": 1239
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-02-28T08:48:04.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "Don’t teach your kid to code. Teach them to communicate - https://medium.com/s/story/these-are-the-skills-your-kids-will-need-for-the-future-hint-its-not-coding-9b5d47f372f1 … #future #coding #learning #communication #Softskills",
+            "url": "https://medium.com/s/story/these-are-the-skills-your-kids-will-need-for-the-future-hint-its-not-coding-9b5d47f372f1",
+            "preview": null,
+            "hashtags": [
+                "future",
+                "coding",
+                "learning",
+                "communication",
+                "Softskills"
+            ],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1101041333022658560",
+                "time": "2019-02-28T08:48:04.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Don’t teach your kid to code. Teach them to communicate - https://medium.com/s/story/these-are-the-skills-your-kids-will-need-for-the-future-hint-its-not-coding-9b5d47f372f1 … #future #coding #learning #communication #Softskills",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "future",
+                        "indices": [
+                            176,
+                            183
+                        ]
+                    },
+                    {
+                        "hashtag": "coding",
+                        "indices": [
+                            184,
+                            191
+                        ]
+                    },
+                    {
+                        "hashtag": "learning",
+                        "indices": [
+                            192,
+                            201
+                        ]
+                    },
+                    {
+                        "hashtag": "communication",
+                        "indices": [
+                            202,
+                            216
+                        ]
+                    },
+                    {
+                        "hashtag": "Softskills",
+                        "indices": [
+                            217,
+                            228
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://medium.com/s/story/these-are-the-skills-your-kids-will-need-for-the-future-hint-its-not-coding-9b5d47f372f1",
+                        "indices": [
+                            58,
+                            173
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 2
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-02-27T15:43:19.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "ML/AI is a tool. The winner will find how to apply it best!",
+            "url": "https://twitter.com/NearForm/status/1100730253062926336",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1100783444538388481",
+                "time": "2019-02-27T15:43:19.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "ML/AI is a tool. The winner will find how to apply it best!",
+                "userMentions": [],
+                "hashtags": [],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "https://twitter.com/NearForm/status/1100730253062926336",
+                        "indices": [
+                            59,
+                            114
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 1,
+                "quote": {
+                    "screenName": "NearForm",
+                    "id": "1100730253062926336",
+                    "text": "Uber releases Ludwig, an #opensource “toolbox” built on top of Google’s @TensorFlow framework that allows users to train and test #AI models without having to write code.https://venturebeat.com/2019/02/11/uber-releases-ludwig-an-open-source-ai-toolbox-built-on-top-of-tensorflow/ …"
+                }
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyVIP",
+            "ctime": "2019-02-25T04:28:14.000Z",
+            "title": "Tweet by @GettyVIP",
+            "text": "British actress Olivia Colman is the next Queen on @TheCrownNetflix & now is this year's #BestActress for playing another Queen in The Favourite at the 91st #AcademyAwards For more 📸#Oscarscoverage 👉https://bit.ly/2IuTOQ2 \n\n#Oscars2019 #oscarwinner #OliviaColman #TheFavourite",
+            "url": "https://bit.ly/2IuTOQ2",
+            "preview": "https://pbs.twimg.com/media/D0OWjqJU8AAagVm.jpg",
+            "hashtags": [
+                "BestActress",
+                "AcademyAwards",
+                "Oscarscoverage",
+                "Oscars2019",
+                "oscarwinner",
+                "OliviaColman",
+                "TheFavouritepic"
+            ],
+            "__meta": {
+                "screenName": "GettyVIP",
+                "id": "1099888780561903616",
+                "time": "2019-02-25T04:28:14.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "British actress Olivia Colman is the next Queen on @TheCrownNetflix & now is this year's #BestActress for playing another Queen in The Favourite at the 91st #AcademyAwards For more 📸#Oscarscoverage 👉https://bit.ly/2IuTOQ2 \n\n#Oscars2019 #oscarwinner #OliviaColman #TheFavourite",
+                "userMentions": [
+                    {
+                        "screenName": "TheCrownNetflix",
+                        "indices": [
+                            51,
+                            67
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "BestActress",
+                        "indices": [
+                            89,
+                            101
+                        ]
+                    },
+                    {
+                        "hashtag": "AcademyAwards",
+                        "indices": [
+                            157,
+                            171
+                        ]
+                    },
+                    {
+                        "hashtag": "Oscarscoverage",
+                        "indices": [
+                            181,
+                            196
+                        ]
+                    },
+                    {
+                        "hashtag": "Oscars2019",
+                        "indices": [
+                            222,
+                            233
+                        ]
+                    },
+                    {
+                        "hashtag": "oscarwinner",
+                        "indices": [
+                            234,
+                            246
+                        ]
+                    },
+                    {
+                        "hashtag": "OliviaColman",
+                        "indices": [
+                            247,
+                            260
+                        ]
+                    },
+                    {
+                        "hashtag": "TheFavouritepic",
+                        "indices": [
+                            261,
+                            277
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/D0OWjqJU8AAagVm.jpg",
+                    "https://pbs.twimg.com/media/D0OWjqdVsAY68ee.jpg",
+                    "https://pbs.twimg.com/media/D0OWjrFV4AAd2a5.jpg",
+                    "https://pbs.twimg.com/media/D0OWjsLU0AENS7B.jpg"
+                ],
+                "urls": [
+                    {
+                        "url": "https://bit.ly/2IuTOQ2",
+                        "indices": [
+                            197,
+                            219
+                        ]
+                    }
+                ],
+                "replyCount": 3,
+                "retweetCount": 28,
+                "favoriteCount": 93
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyVIP",
+            "ctime": "2019-02-25T04:07:46.000Z",
+            "title": "Tweet by @GettyVIP",
+            "text": "He is the champion my friends ... Rami Malek accepts the #BestActor award for Bohemian Rhapsody onstage at the 91st #AcademyAwards For more 📸#Oscars\ncoverage 👉https://bit.ly/2IuTOQ2  \n\n#Oscars2019 #oscarwinner #hollywood #BohemianRhapsody #RamiMalek #Queen",
+            "url": "https://bit.ly/2IuTOQ2",
+            "preview": "https://pbs.twimg.com/media/D0OSGtyVAAAck4Z.jpg",
+            "hashtags": [
+                "BestActor",
+                "AcademyAwards",
+                "Oscars",
+                "Oscars2019",
+                "oscarwinner",
+                "hollywood",
+                "BohemianRhapsody",
+                "RamiMalek",
+                "Queenpic"
+            ],
+            "__meta": {
+                "screenName": "GettyVIP",
+                "id": "1099883627800752128",
+                "time": "2019-02-25T04:07:46.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "He is the champion my friends ... Rami Malek accepts the #BestActor award for Bohemian Rhapsody onstage at the 91st #AcademyAwards For more 📸#Oscars\ncoverage 👉https://bit.ly/2IuTOQ2  \n\n#Oscars2019 #oscarwinner #hollywood #BohemianRhapsody #RamiMalek #Queen",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "BestActor",
+                        "indices": [
+                            57,
+                            67
+                        ]
+                    },
+                    {
+                        "hashtag": "AcademyAwards",
+                        "indices": [
+                            116,
+                            130
+                        ]
+                    },
+                    {
+                        "hashtag": "Oscars",
+                        "indices": [
+                            140,
+                            147
+                        ]
+                    },
+                    {
+                        "hashtag": "Oscars2019",
+                        "indices": [
+                            183,
+                            194
+                        ]
+                    },
+                    {
+                        "hashtag": "oscarwinner",
+                        "indices": [
+                            195,
+                            207
+                        ]
+                    },
+                    {
+                        "hashtag": "hollywood",
+                        "indices": [
+                            208,
+                            218
+                        ]
+                    },
+                    {
+                        "hashtag": "BohemianRhapsody",
+                        "indices": [
+                            219,
+                            236
+                        ]
+                    },
+                    {
+                        "hashtag": "RamiMalek",
+                        "indices": [
+                            237,
+                            247
+                        ]
+                    },
+                    {
+                        "hashtag": "Queenpic",
+                        "indices": [
+                            248,
+                            257
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/D0OSGtyVAAAck4Z.jpg"
+                ],
+                "urls": [
+                    {
+                        "url": "https://bit.ly/2IuTOQ2",
+                        "indices": [
+                            157,
+                            179
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 28,
+                "favoriteCount": 89
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyVIP",
+            "ctime": "2019-02-25T03:16:29.000Z",
+            "title": "Tweet by @GettyVIP",
+            "text": "Did you see this #music moment when Lady Gaga & Bradley Cooper sang 'Shallow' together at the 91st #AcademyAwards. For more 📸 #Oscars coverage 👉https://bit.ly/2IuTOQ2 \n\n#Oscars2019 #oscarwinner #hollywood #Shallow #LadyGaga #BradleyCooper #AStarIsBorn",
+            "url": "https://bit.ly/2IuTOQ2",
+            "preview": "https://pbs.twimg.com/media/D0OF0UdUUAAOfaX.jpg",
+            "hashtags": [
+                "music",
+                "AcademyAwards",
+                "Oscars",
+                "Oscars2019",
+                "oscarwinner",
+                "hollywood",
+                "Shallow",
+                "LadyGaga",
+                "BradleyCooper",
+                "AStarIsBornpic"
+            ],
+            "__meta": {
+                "screenName": "GettyVIP",
+                "id": "1099870724154511360",
+                "time": "2019-02-25T03:16:29.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Did you see this #music moment when Lady Gaga & Bradley Cooper sang 'Shallow' together at the 91st #AcademyAwards. For more 📸 #Oscars coverage 👉https://bit.ly/2IuTOQ2 \n\n#Oscars2019 #oscarwinner #hollywood #Shallow #LadyGaga #BradleyCooper #AStarIsBorn",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "music",
+                        "indices": [
+                            17,
+                            23
+                        ]
+                    },
+                    {
+                        "hashtag": "AcademyAwards",
+                        "indices": [
+                            99,
+                            113
+                        ]
+                    },
+                    {
+                        "hashtag": "Oscars",
+                        "indices": [
+                            125,
+                            132
+                        ]
+                    },
+                    {
+                        "hashtag": "Oscars2019",
+                        "indices": [
+                            167,
+                            178
+                        ]
+                    },
+                    {
+                        "hashtag": "oscarwinner",
+                        "indices": [
+                            179,
+                            191
+                        ]
+                    },
+                    {
+                        "hashtag": "hollywood",
+                        "indices": [
+                            192,
+                            202
+                        ]
+                    },
+                    {
+                        "hashtag": "Shallow",
+                        "indices": [
+                            203,
+                            211
+                        ]
+                    },
+                    {
+                        "hashtag": "LadyGaga",
+                        "indices": [
+                            212,
+                            221
+                        ]
+                    },
+                    {
+                        "hashtag": "BradleyCooper",
+                        "indices": [
+                            222,
+                            236
+                        ]
+                    },
+                    {
+                        "hashtag": "AStarIsBornpic",
+                        "indices": [
+                            237,
+                            252
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/D0OF0UdUUAAOfaX.jpg",
+                    "https://pbs.twimg.com/media/D0OF0RnVYAE7E5c.jpg",
+                    "https://pbs.twimg.com/media/D0OF0UNU8AAXiAw.jpg",
+                    "https://pbs.twimg.com/media/D0OF0T9V4AAFXVt.jpg"
+                ],
+                "urls": [
+                    {
+                        "url": "https://bit.ly/2IuTOQ2",
+                        "indices": [
+                            142,
+                            164
+                        ]
+                    }
+                ],
+                "replyCount": 1,
+                "retweetCount": 27,
+                "favoriteCount": 97
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyVIP",
+            "ctime": "2019-02-24T23:41:57.000Z",
+            "title": "Tweet by @GettyVIP",
+            "text": "Glenn Close looks like an #Oscar tonight! Will she later win the #BestActress award?\n\n#GlennClose on the #RedCarpet. For more 📸 #Oscars coverage 👉https://bit.ly/2GM1HOs \n\n#Oscars2019 #oscarsredcarpet #hollywood #TheWife #GlennClose",
+            "url": "https://bit.ly/2GM1HOs",
+            "preview": "https://pbs.twimg.com/media/D0NUwy2UwAAC0v1.jpg",
+            "hashtags": [
+                "Oscar",
+                "BestActress",
+                "GlennClose",
+                "RedCarpet",
+                "Oscars",
+                "Oscars2019",
+                "oscarsredcarpet",
+                "hollywood",
+                "TheWife",
+                "GlennClosepic"
+            ],
+            "__meta": {
+                "screenName": "GettyVIP",
+                "id": "1099816731982290945",
+                "time": "2019-02-24T23:41:57.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Glenn Close looks like an #Oscar tonight! Will she later win the #BestActress award?\n\n#GlennClose on the #RedCarpet. For more 📸 #Oscars coverage 👉https://bit.ly/2GM1HOs \n\n#Oscars2019 #oscarsredcarpet #hollywood #TheWife #GlennClose",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "Oscar",
+                        "indices": [
+                            26,
+                            32
+                        ]
+                    },
+                    {
+                        "hashtag": "BestActress",
+                        "indices": [
+                            65,
+                            77
+                        ]
+                    },
+                    {
+                        "hashtag": "GlennClose",
+                        "indices": [
+                            86,
+                            97
+                        ]
+                    },
+                    {
+                        "hashtag": "RedCarpet",
+                        "indices": [
+                            105,
+                            115
+                        ]
+                    },
+                    {
+                        "hashtag": "Oscars",
+                        "indices": [
+                            127,
+                            134
+                        ]
+                    },
+                    {
+                        "hashtag": "Oscars2019",
+                        "indices": [
+                            169,
+                            180
+                        ]
+                    },
+                    {
+                        "hashtag": "oscarsredcarpet",
+                        "indices": [
+                            181,
+                            197
+                        ]
+                    },
+                    {
+                        "hashtag": "hollywood",
+                        "indices": [
+                            198,
+                            208
+                        ]
+                    },
+                    {
+                        "hashtag": "TheWife",
+                        "indices": [
+                            209,
+                            217
+                        ]
+                    },
+                    {
+                        "hashtag": "GlennClosepic",
+                        "indices": [
+                            218,
+                            232
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/D0NUwy2UwAAC0v1.jpg"
+                ],
+                "urls": [
+                    {
+                        "url": "https://bit.ly/2GM1HOs",
+                        "indices": [
+                            144,
+                            166
+                        ]
+                    }
+                ],
+                "replyCount": 1,
+                "retweetCount": 13,
+                "favoriteCount": 34
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-02-23T20:24:14.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "In the next #MalmoJS we are going to learn how to use #Javascript for data scraping, and how to deploy an army of #EC2 machines that tackle the problem in #parallel - http://foocafe.com/malmoe/events/2055-can-you-download-the-whole-instagram …",
+            "url": "http://foocafe.com/malmoe/events/2055-can-you-download-the-whole-instagram",
+            "preview": null,
+            "hashtags": [
+                "MalmoJS",
+                "Javascript",
+                "EC2",
+                "parallel"
+            ],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1099404589865025536",
+                "time": "2019-02-23T20:24:14.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "In the next #MalmoJS we are going to learn how to use #Javascript for data scraping, and how to deploy an army of #EC2 machines that tackle the problem in #parallel - http://foocafe.com/malmoe/events/2055-can-you-download-the-whole-instagram …",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "MalmoJS",
+                        "indices": [
+                            12,
+                            20
+                        ]
+                    },
+                    {
+                        "hashtag": "Javascript",
+                        "indices": [
+                            54,
+                            65
+                        ]
+                    },
+                    {
+                        "hashtag": "EC2",
+                        "indices": [
+                            114,
+                            118
+                        ]
+                    },
+                    {
+                        "hashtag": "parallel",
+                        "indices": [
+                            155,
+                            164
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "http://foocafe.com/malmoe/events/2055-can-you-download-the-whole-instagram",
+                        "indices": [
+                            167,
+                            241
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 0,
+                "favoriteCount": 2
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::thepeg",
+            "ctime": "2019-02-23T18:24:01.000Z",
+            "title": "Tweet by @thepeg",
+            "text": "Nice overview on queue architecture. http://Fetchq.com  is a #nodejs / #postgresql implementation that handles all the discussed scenarios plus works easily on a dev machine and scale nicely in the #cloud. #queue #workers #parallel #scalability",
+            "url": "http://Fetchq.com",
+            "preview": null,
+            "hashtags": [
+                "nodejs",
+                "postgresql",
+                "cloud",
+                "queue",
+                "workers",
+                "parallel",
+                "scalabilityhttps"
+            ],
+            "__meta": {
+                "screenName": "thepeg",
+                "id": "1099374334508961792",
+                "time": "2019-02-23T18:24:01.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Nice overview on queue architecture. http://Fetchq.com  is a #nodejs / #postgresql implementation that handles all the discussed scenarios plus works easily on a dev machine and scale nicely in the #cloud. #queue #workers #parallel #scalability",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "nodejs",
+                        "indices": [
+                            61,
+                            68
+                        ]
+                    },
+                    {
+                        "hashtag": "postgresql",
+                        "indices": [
+                            71,
+                            82
+                        ]
+                    },
+                    {
+                        "hashtag": "cloud",
+                        "indices": [
+                            198,
+                            204
+                        ]
+                    },
+                    {
+                        "hashtag": "queue",
+                        "indices": [
+                            206,
+                            212
+                        ]
+                    },
+                    {
+                        "hashtag": "workers",
+                        "indices": [
+                            213,
+                            221
+                        ]
+                    },
+                    {
+                        "hashtag": "parallel",
+                        "indices": [
+                            222,
+                            231
+                        ]
+                    },
+                    {
+                        "hashtag": "scalabilityhttps",
+                        "indices": [
+                            232,
+                            249
+                        ]
+                    }
+                ],
+                "images": [],
+                "urls": [
+                    {
+                        "url": "http://Fetchq.com",
+                        "indices": [
+                            37,
+                            54
+                        ]
+                    },
+                    {
+                        "url": "scalabilityhttps://twitter.com/JavaScriptDaily/status/1099075864195723265",
+                        "indices": [
+                            233,
+                            306
+                        ]
+                    }
+                ],
+                "replyCount": 0,
+                "retweetCount": 1,
+                "favoriteCount": 0,
+                "quote": {
+                    "screenName": "JavaScriptDaily",
+                    "id": "1099075864195723265",
+                    "text": "Divide and Conquer: Scale Your Node App using Distributed Queues - https://blog.logrocket.com/divide-and-conquer-scale-your-node-js-app-using-distributed-queues-8231a9486d3a …"
+                }
+            },
+            "origin": "twitter::thepeg"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyImages",
+            "ctime": "2019-02-07T22:04:54.000Z",
+            "title": "Tweet by @GettyImages",
+            "text": "Getty Images is proud to award India-based photographer Smita Sharma a grant to help her photographic work shedding light on disadvantaged and marginalized groups in India, covering issues from domestic servitude to child marriage and sexual violence. Congratulations @smitashrm!",
+            "url": "https://twitter.com/GettyImages/status/1093631717078794240",
+            "preview": null,
+            "hashtags": [],
+            "__meta": {
+                "screenName": "GettyImages",
+                "id": "1093631717078794240",
+                "time": "2019-02-07T22:04:54.000Z",
+                "isRetweet": false,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Getty Images is proud to award India-based photographer Smita Sharma a grant to help her photographic work shedding light on disadvantaged and marginalized groups in India, covering issues from domestic servitude to child marriage and sexual violence. Congratulations @smitashrm!",
+                "userMentions": [
+                    {
+                        "screenName": "smitashrm",
+                        "indices": [
+                            268,
+                            278
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "images": [],
+                "urls": [],
+                "replyCount": 2,
+                "retweetCount": 32,
+                "favoriteCount": 161
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyVIP",
+            "ctime": "2019-02-07T21:01:51.000Z",
+            "title": "Tweet by @GettyVIP",
+            "text": "The Duchess of Sussex wearing @givenchy attends with Prince Harry the #EndeavourFundAwards 🦁at Drapers' Hall in #London, England. \n\n👑 #BritishRoyalFamily #RoyalFamily #HarryandMeghan #Royals #DukeAndDuchessofSussex #EndeavourAwards",
+            "url": "https://twitter.com/GettyVIP/status/1093615849909346304",
+            "preview": "https://pbs.twimg.com/media/Dy1M0eMU8AA5-u6.jpg",
+            "hashtags": [
+                "EndeavourFundAwards",
+                "London",
+                "BritishRoyalFamily",
+                "RoyalFamily",
+                "HarryandMeghan",
+                "Royals",
+                "DukeAndDuchessofSussex",
+                "EndeavourAwardspic"
+            ],
+            "__meta": {
+                "screenName": "GettyVIP",
+                "id": "1093615849909346304",
+                "time": "2019-02-07T21:01:51.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "The Duchess of Sussex wearing @givenchy attends with Prince Harry the #EndeavourFundAwards 🦁at Drapers' Hall in #London, England. \n\n👑 #BritishRoyalFamily #RoyalFamily #HarryandMeghan #Royals #DukeAndDuchessofSussex #EndeavourAwards",
+                "userMentions": [
+                    {
+                        "screenName": "givenchy",
+                        "indices": [
+                            30,
+                            39
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "EndeavourFundAwards",
+                        "indices": [
+                            70,
+                            90
+                        ]
+                    },
+                    {
+                        "hashtag": "London",
+                        "indices": [
+                            111,
+                            118
+                        ]
+                    },
+                    {
+                        "hashtag": "BritishRoyalFamily",
+                        "indices": [
+                            132,
+                            151
+                        ]
+                    },
+                    {
+                        "hashtag": "RoyalFamily",
+                        "indices": [
+                            152,
+                            164
+                        ]
+                    },
+                    {
+                        "hashtag": "HarryandMeghan",
+                        "indices": [
+                            165,
+                            180
+                        ]
+                    },
+                    {
+                        "hashtag": "Royals",
+                        "indices": [
+                            181,
+                            188
+                        ]
+                    },
+                    {
+                        "hashtag": "DukeAndDuchessofSussex",
+                        "indices": [
+                            189,
+                            212
+                        ]
+                    },
+                    {
+                        "hashtag": "EndeavourAwardspic",
+                        "indices": [
+                            213,
+                            232
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/Dy1M0eMU8AA5-u6.jpg"
+                ],
+                "urls": [],
+                "replyCount": 5,
+                "retweetCount": 44,
+                "favoriteCount": 210
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyCreativity",
+            "ctime": "2019-02-06T17:05:07.000Z",
+            "title": "Tweet by @GettyCreativity",
+            "text": "Veggie Delight #CreativeInsights http://gtty.im/6Gbbib4 ",
+            "url": "http://gtty.im/6Gbbib4",
+            "preview": "https://pbs.twimg.com/media/DyvOC2iXcAAc5AW.jpg",
+            "hashtags": [
+                "CreativeInsights"
+            ],
+            "__meta": {
+                "screenName": "GettyCreativity",
+                "id": "1093193886246281216",
+                "time": "2019-02-06T17:05:07.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Veggie Delight #CreativeInsights http://gtty.im/6Gbbib4 ",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "CreativeInsights",
+                        "indices": [
+                            15,
+                            32
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/DyvOC2iXcAAc5AW.jpg"
+                ],
+                "urls": [
+                    {
+                        "url": "http://gtty.im/6Gbbib4",
+                        "indices": [
+                            33,
+                            55
+                        ]
+                    }
+                ],
+                "replyCount": 1,
+                "retweetCount": 33,
+                "favoriteCount": 105
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::jbmoorephoto",
+            "ctime": "2019-02-04T15:17:27.000Z",
+            "title": "Tweet by @jbmoorephoto",
+            "text": "Central American immigrants wade across the Rio Grande, which forms the US-Mexico border and walk along the border fence, located about 100 yards inland from the river, to request political asylum in the U.S. #Immigration #undocumented #Border #gettyimages @GettyImagesNews",
+            "url": "https://twitter.com/jbmoorephoto/status/1092442015403597826",
+            "preview": "https://pbs.twimg.com/media/DykiNDzX4AEDaAk.jpg",
+            "hashtags": [
+                "Immigration",
+                "undocumented",
+                "Border",
+                "gettyimages"
+            ],
+            "__meta": {
+                "screenName": "jbmoorephoto",
+                "id": "1092442015403597826",
+                "time": "2019-02-04T15:17:27.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Central American immigrants wade across the Rio Grande, which forms the US-Mexico border and walk along the border fence, located about 100 yards inland from the river, to request political asylum in the U.S. #Immigration #undocumented #Border #gettyimages @GettyImagesNews",
+                "userMentions": [
+                    {
+                        "screenName": "GettyImagesNewspic",
+                        "indices": [
+                            257,
+                            276
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "Immigration",
+                        "indices": [
+                            209,
+                            221
+                        ]
+                    },
+                    {
+                        "hashtag": "undocumented",
+                        "indices": [
+                            222,
+                            235
+                        ]
+                    },
+                    {
+                        "hashtag": "Border",
+                        "indices": [
+                            236,
+                            243
+                        ]
+                    },
+                    {
+                        "hashtag": "gettyimages",
+                        "indices": [
+                            244,
+                            256
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/DykiNDzX4AEDaAk.jpg",
+                    "https://pbs.twimg.com/media/DykiNEJWwAEwHmn.jpg",
+                    "https://pbs.twimg.com/media/DykiND6WkAAAFy7.jpg",
+                    "https://pbs.twimg.com/media/DykiND4XgAEUGqC.jpg"
+                ],
+                "urls": [],
+                "replyCount": 7,
+                "retweetCount": 50,
+                "favoriteCount": 137
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettySport",
+            "ctime": "2019-02-04T03:38:12.000Z",
+            "title": "Tweet by @GettySport",
+            "text": "#SuperBowlLlll #MVP Julian Edelman made 10 catches for 141 yards in the New England Patriots 13-3 victory over the Los Angeles Rams   📷: @StreeTweeter",
+            "url": "https://twitter.com/GettySport/status/1092266042964000770",
+            "preview": "https://pbs.twimg.com/media/DyiBpqVU0AEDLri.jpg",
+            "hashtags": [
+                "SuperBowlLlll",
+                "MVP"
+            ],
+            "__meta": {
+                "screenName": "GettySport",
+                "id": "1092266042964000770",
+                "time": "2019-02-04T03:38:12.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "#SuperBowlLlll #MVP Julian Edelman made 10 catches for 141 yards in the New England Patriots 13-3 victory over the Los Angeles Rams   📷: @StreeTweeter",
+                "userMentions": [
+                    {
+                        "screenName": "StreeTweeterpic",
+                        "indices": [
+                            136,
+                            152
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "SuperBowlLlll",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "hashtag": "MVP",
+                        "indices": [
+                            15,
+                            19
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/DyiBpqVU0AEDLri.jpg"
+                ],
+                "urls": [],
+                "replyCount": 2,
+                "retweetCount": 45,
+                "favoriteCount": 210
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::AFPphoto",
+            "ctime": "2019-01-31T18:00:02.000Z",
+            "title": "Tweet by @AFPphoto",
+            "text": "The frozen American Falls are illuminated in Niagara Falls, Ontario, Canada. #Niagara #weather \n📸 @LarsHagberg",
+            "url": "https://twitter.com/AFPphoto/status/1091033376973189122",
+            "preview": "https://pbs.twimg.com/media/DyPxREtXgAAFlPV.jpg",
+            "hashtags": [
+                "Niagara",
+                "weather"
+            ],
+            "__meta": {
+                "screenName": "AFPphoto",
+                "id": "1091033376973189122",
+                "time": "2019-01-31T18:00:02.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "The frozen American Falls are illuminated in Niagara Falls, Ontario, Canada. #Niagara #weather \n📸 @LarsHagberg",
+                "userMentions": [
+                    {
+                        "screenName": "LarsHagbergpic",
+                        "indices": [
+                            97,
+                            112
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "Niagara",
+                        "indices": [
+                            77,
+                            85
+                        ]
+                    },
+                    {
+                        "hashtag": "weather",
+                        "indices": [
+                            86,
+                            94
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/DyPxREtXgAAFlPV.jpg"
+                ],
+                "urls": [],
+                "replyCount": 3,
+                "retweetCount": 109,
+                "favoriteCount": 181
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyCreativity",
+            "ctime": "2019-01-30T13:34:17.000Z",
+            "title": "Tweet by @GettyCreativity",
+            "text": "In full bloom\n📷:MirageC, #923200704",
+            "url": "https://twitter.com/GettyCreativity/status/1090604112394235904",
+            "preview": "https://pbs.twimg.com/media/DyKaqQvWoAAPMFT.jpg",
+            "hashtags": [
+                "923200704pic"
+            ],
+            "__meta": {
+                "screenName": "GettyCreativity",
+                "id": "1090604112394235904",
+                "time": "2019-01-30T13:34:17.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "In full bloom\n📷:MirageC, #923200704",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "923200704pic",
+                        "indices": [
+                            24,
+                            37
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/DyKaqQvWoAAPMFT.jpg"
+                ],
+                "urls": [],
+                "replyCount": 3,
+                "retweetCount": 29,
+                "favoriteCount": 97
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyImagesNews",
+            "ctime": "2019-01-29T16:04:38.000Z",
+            "title": "Tweet by @GettyImagesNews",
+            "text": "Roger Stone arrives at the courthouse in D.C. for his arraignment on charges of witness tampering and lying to Congress 📷: @somogettynews",
+            "url": "https://twitter.com/GettyImagesNews/status/1090279562733383680",
+            "preview": "https://pbs.twimg.com/media/DyFyGZ4UwAA9iVJ.jpg",
+            "hashtags": [],
+            "__meta": {
+                "screenName": "GettyImagesNews",
+                "id": "1090279562733383680",
+                "time": "2019-01-29T16:04:38.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Roger Stone arrives at the courthouse in D.C. for his arraignment on charges of witness tampering and lying to Congress 📷: @somogettynews",
+                "userMentions": [
+                    {
+                        "screenName": "somogettynewspic",
+                        "indices": [
+                            122,
+                            139
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "images": [
+                    "https://pbs.twimg.com/media/DyFyGZ4UwAA9iVJ.jpg",
+                    "https://pbs.twimg.com/media/DyFzAcKU8AAPwwr.jpg"
+                ],
+                "urls": [],
+                "replyCount": 93,
+                "retweetCount": 291,
+                "favoriteCount": 978
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettySport",
+            "ctime": "2019-01-29T04:51:29.000Z",
+            "title": "Tweet by @GettySport",
+            "text": "Ethan Westbrooks of the @RamsNFL reacts as he is offered a scorpion from a reporter during #SuperBowl LIII Opening Night  📷: Kevin C. Cox",
+            "url": "https://twitter.com/GettySport/status/1090110157886013440",
+            "preview": "https://pbs.twimg.com/media/DyDYiwfUcAAtYup.jpg",
+            "hashtags": [
+                "SuperBowl"
+            ],
+            "__meta": {
+                "screenName": "GettySport",
+                "id": "1090110157886013440",
+                "time": "2019-01-29T04:51:29.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Ethan Westbrooks of the @RamsNFL reacts as he is offered a scorpion from a reporter during #SuperBowl LIII Opening Night  📷: Kevin C. Cox",
+                "userMentions": [
+                    {
+                        "screenName": "RamsNFL",
+                        "indices": [
+                            24,
+                            32
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "SuperBowl",
+                        "indices": [
+                            91,
+                            101
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/DyDYiwfUcAAtYup.jpg"
+                ],
+                "urls": [],
+                "replyCount": 6,
+                "retweetCount": 22,
+                "favoriteCount": 144
+            },
+            "origin": "twitter::GettyImages"
+        },
+        {
+            "type": "twitter::tweet",
+            "author": "twitter::GettyVIP",
+            "ctime": "2019-01-17T15:08:41.000Z",
+            "title": "Tweet by @GettyVIP",
+            "text": "Wearing an #Emporio @Armani coat, The #DuchessofSussex met \"Minnie\" 🐾a 1-year-old #JackRussell 🐶  #dog during her first official visit as Patron to @TheMayhew. The #charity works to improve the lives of cats & #dogs in our communities. \n\n#RoyalFamily #TheMayhew #KensalRise",
+            "url": "https://twitter.com/GettyVIP/status/1085916825379131393",
+            "preview": "https://pbs.twimg.com/media/DxHzTljUYAEzwHh.jpg",
+            "hashtags": [
+                "Emporio",
+                "DuchessofSussex",
+                "JackRussell",
+                "dog",
+                "charity",
+                "dogs",
+                "RoyalFamily",
+                "TheMayhew",
+                "KensalRisepic"
+            ],
+            "__meta": {
+                "screenName": "GettyVIP",
+                "id": "1085916825379131393",
+                "time": "2019-01-17T15:08:41.000Z",
+                "isRetweet": true,
+                "isPinned": false,
+                "isReplyTo": false,
+                "text": "Wearing an #Emporio @Armani coat, The #DuchessofSussex met \"Minnie\" 🐾a 1-year-old #JackRussell 🐶  #dog during her first official visit as Patron to @TheMayhew. The #charity works to improve the lives of cats & #dogs in our communities. \n\n#RoyalFamily #TheMayhew #KensalRise",
+                "userMentions": [
+                    {
+                        "screenName": "Armani",
+                        "indices": [
+                            20,
+                            27
+                        ]
+                    },
+                    {
+                        "screenName": "TheMayhew",
+                        "indices": [
+                            146,
+                            156
+                        ]
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "hashtag": "Emporio",
+                        "indices": [
+                            11,
+                            19
+                        ]
+                    },
+                    {
+                        "hashtag": "DuchessofSussex",
+                        "indices": [
+                            38,
+                            54
+                        ]
+                    },
+                    {
+                        "hashtag": "JackRussell",
+                        "indices": [
+                            81,
+                            93
+                        ]
+                    },
+                    {
+                        "hashtag": "dog",
+                        "indices": [
+                            96,
+                            100
+                        ]
+                    },
+                    {
+                        "hashtag": "charity",
+                        "indices": [
+                            162,
+                            170
+                        ]
+                    },
+                    {
+                        "hashtag": "dogs",
+                        "indices": [
+                            208,
+                            213
+                        ]
+                    },
+                    {
+                        "hashtag": "RoyalFamily",
+                        "indices": [
+                            236,
+                            248
+                        ]
+                    },
+                    {
+                        "hashtag": "TheMayhew",
+                        "indices": [
+                            249,
+                            259
+                        ]
+                    },
+                    {
+                        "hashtag": "KensalRisepic",
+                        "indices": [
+                            260,
+                            274
+                        ]
+                    }
+                ],
+                "images": [
+                    "https://pbs.twimg.com/media/DxHzTljUYAEzwHh.jpg",
+                    "https://pbs.twimg.com/media/DxHzTl-UYAAnQtz.jpg"
+                ],
+                "urls": [],
+                "replyCount": 3,
+                "retweetCount": 18,
+                "favoriteCount": 94
+            },
+            "origin": "twitter::GettyImages"
+        }
+    ],
+    "profiles": {
+        "twitter::GettyCreativity": {
+            "id": "twitter::GettyCreativity",
+            "username": "GettyCreativity",
+            "pic": "https://pbs.twimg.com/profile_images/1016708481183870977/403XYYaK_400x400.jpg",
+            "url": "https://twitter.com/GettyCreativity",
+            "__meta": {
+                "screenName": "GettyCreativity",
+                "profileImage": "https://pbs.twimg.com/profile_images/1016708481183870977/403XYYaK_400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/19675049/1509733689/1500x500",
+                "name": "Getty Images Creative",
+                "bio": "Photo: Naila Ruechel #682628250",
+                "userMentions": [],
+                "hashtags": [
+                    {
+                        "hashtag": "682628250",
+                        "indices": [
+                            21,
+                            31
+                        ]
+                    }
+                ],
+                "urls": [],
+                "location": "",
+                "url": "https://creativeinsights.gettyimages.com/",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 5120,
+                "followingCount": 6476,
+                "followerCount": 44523,
+                "likeCount": 253
+            }
+        },
+        "twitter::thepeg": {
+            "id": "twitter::thepeg",
+            "username": "thepeg",
+            "pic": "https://pbs.twimg.com/profile_images/552549894376812544/xlUhrECS_400x400.jpeg",
+            "url": "https://twitter.com/thepeg",
+            "__meta": {
+                "screenName": "thepeg",
+                "profileImage": "https://pbs.twimg.com/profile_images/552549894376812544/xlUhrECS_400x400.jpeg",
+                "name": "Marco Pegoraro",
+                "bio": "I'm a frontend web developer. I do JS. To me knowledge is a product worth to share. I love Open Source, coffee and planes. I dream a lot.",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "45.512834,11.507809",
+                "url": "http://marcopeg.com",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 1291,
+                "followingCount": 109,
+                "followerCount": 216,
+                "likeCount": 73
+            }
+        },
+        "twitter::wolfson32": {
+            "id": "twitter::wolfson32",
+            "username": "wolfson32",
+            "pic": "https://pbs.twimg.com/profile_images/1265991380/171401_10150173097244942_500059941_8758250_202695_o_1__400x400.jpg",
+            "url": "https://twitter.com/wolfson32",
+            "__meta": {
+                "screenName": "wolfson32",
+                "profileImage": "https://pbs.twimg.com/profile_images/1265991380/171401_10150173097244942_500059941_8758250_202695_o_1__400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/117579910/1444525100/1500x500",
+                "name": "Maxx Wolfson",
+                "bio": "Director of Photography for Getty Images Sport in The Americas.",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "ÜT: 22.943969,113.468363",
+                "url": "http://www.gettyimages.com",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 885,
+                "followingCount": 3322,
+                "followerCount": 911,
+                "likeCount": 28004
+            }
+        },
+        "twitter::JavaScriptDaily": {
+            "id": "twitter::JavaScriptDaily",
+            "username": "JavaScriptDaily",
+            "pic": "https://pbs.twimg.com/profile_images/988505844915556354/lgUSY3mZ_400x400.jpg",
+            "url": "https://twitter.com/JavaScriptDaily",
+            "__meta": {
+                "screenName": "JavaScriptDaily",
+                "profileImage": "https://pbs.twimg.com/profile_images/988505844915556354/lgUSY3mZ_400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/459275531/1458214369/1500x500",
+                "name": "JavaScript Daily",
+                "bio": "Daily JavaScript / JS news, links and events, delivered with wit and enthusiasm.",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 12002,
+                "followingCount": 202,
+                "followerCount": 349360,
+                "likeCount": 945
+            }
+        },
+        "twitter::AdamRutherford": {
+            "id": "twitter::AdamRutherford",
+            "username": "AdamRutherford",
+            "pic": "https://pbs.twimg.com/profile_images/608384474292846592/6HNevMZN_400x400.jpg",
+            "url": "https://twitter.com/AdamRutherford",
+            "__meta": {
+                "screenName": "AdamRutherford",
+                "profileImage": "https://pbs.twimg.com/profile_images/608384474292846592/6HNevMZN_400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/22419487/1552435237/1500x500",
+                "name": "Dr Adam Rutherford",
+                "bio": "Back off man, I'm a scientist \n\nhttp://hyperurl.co/BookofHumans ",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://hyperurl.co/BookofHumans",
+                        "indices": [
+                            32,
+                            63
+                        ]
+                    }
+                ],
+                "location": "",
+                "url": "http://www.bbc.co.uk/programmes/b036f7w2",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 63849,
+                "followingCount": 1290,
+                "followerCount": 65411,
+                "likeCount": 108
+            }
+        },
+        "twitter::obensource": {
+            "id": "twitter::obensource",
+            "username": "obensource",
+            "pic": "https://pbs.twimg.com/profile_images/560338263890612224/SDEpGo5s_400x400.jpeg",
+            "url": "https://twitter.com/obensource",
+            "__meta": {
+                "screenName": "obensource",
+                "profileImage": "https://pbs.twimg.com/profile_images/560338263890612224/SDEpGo5s_400x400.jpeg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/407296703/1465834695/1500x500",
+                "name": "Ben Michel",
+                "bio": "I build hacker communities, and ♡ the Internet of Music. Developer Avocado at @InVisionApp 🥑. @nodejs Community Committee. Leading @pdxnode & @webaudiopdx.",
+                "userMentions": [
+                    {
+                        "screenName": "InVisionApp",
+                        "indices": [
+                            78,
+                            90
+                        ]
+                    },
+                    {
+                        "screenName": "nodejs",
+                        "indices": [
+                            95,
+                            102
+                        ]
+                    },
+                    {
+                        "screenName": "pdxnode",
+                        "indices": [
+                            132,
+                            140
+                        ]
+                    },
+                    {
+                        "screenName": "webaudiopdx",
+                        "indices": [
+                            143,
+                            155
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "urls": [],
+                "location": "Portland, OR",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 7882,
+                "followingCount": 2194,
+                "followerCount": 1629,
+                "likeCount": 17179
+            }
+        },
+        "twitter::kuizinas": {
+            "id": "twitter::kuizinas",
+            "username": "kuizinas",
+            "pic": "https://pbs.twimg.com/profile_images/796004738273865728/qRcdB4kf_400x400.jpg",
+            "url": "https://twitter.com/kuizinas",
+            "__meta": {
+                "screenName": "kuizinas",
+                "profileImage": "https://pbs.twimg.com/profile_images/796004738273865728/qRcdB4kf_400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/95668959/1480850120/1500x500",
+                "name": "Gajus Kuizinas",
+                "bio": "Software architect. Passionate about JavaScript and Hack. Active open-source contributor. Flow, React, GraphQL, Redux. Founder of https://applaudience.com/ .",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://applaudience.com/",
+                        "indices": [
+                            130,
+                            155
+                        ]
+                    }
+                ],
+                "location": "United Kingdom",
+                "url": "https://github.com/gajus",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 1432,
+                "followingCount": 955,
+                "followerCount": 5804,
+                "likeCount": 146
+            }
+        },
+        "twitter::mario_tama": {
+            "id": "twitter::mario_tama",
+            "username": "mario_tama",
+            "pic": "https://pbs.twimg.com/profile_images/1079881272313503744/woW297Hu_400x400.jpg",
+            "url": "https://twitter.com/mario_tama",
+            "__meta": {
+                "screenName": "mario_tama",
+                "profileImage": "https://pbs.twimg.com/profile_images/1079881272313503744/woW297Hu_400x400.jpg",
+                "name": "Mario Tama",
+                "bio": "Getty Images Photojournalist based in Los Angeles",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 614,
+                "followingCount": 1347,
+                "followerCount": 4031,
+                "likeCount": 439
+            }
+        },
+        "twitter::PackardFdn": {
+            "id": "twitter::PackardFdn",
+            "username": "PackardFdn",
+            "pic": "https://pbs.twimg.com/profile_images/468887956837523456/Tf-PIdtO_400x400.jpeg",
+            "url": "https://twitter.com/PackardFdn",
+            "__meta": {
+                "screenName": "PackardFdn",
+                "profileImage": "https://pbs.twimg.com/profile_images/468887956837523456/Tf-PIdtO_400x400.jpeg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/2340738308/1534442451/1500x500",
+                "name": "Packard Foundation",
+                "bio": "We work with partners around the world to improve the lives of children, families, and communities—and to restore and protect our planet.",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "Los Altos, CA",
+                "url": "http://www.packard.org",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 2409,
+                "followingCount": 708,
+                "followerCount": 8728,
+                "likeCount": 2791
+            }
+        },
+        "twitter::GettyImages": {
+            "id": "twitter::GettyImages",
+            "username": "GettyImages",
+            "pic": "https://pbs.twimg.com/profile_images/1016315371484114944/hxz9PNy6_400x400.jpg",
+            "url": "https://twitter.com/GettyImages",
+            "__meta": {
+                "screenName": "GettyImages",
+                "profileImage": "https://pbs.twimg.com/profile_images/1016315371484114944/hxz9PNy6_400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/40297195/1526927331/1500x500",
+                "name": "Getty Images",
+                "bio": "Moving the world with images.",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "Global",
+                "url": "http://gif.com",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 15036,
+                "followingCount": 2028,
+                "followerCount": 1016231,
+                "likeCount": 2206
+            }
+        },
+        "twitter::JoshConstine": {
+            "id": "twitter::JoshConstine",
+            "username": "JoshConstine",
+            "pic": "https://pbs.twimg.com/profile_images/1003329836574654464/pDmyoRm9_400x400.jpg",
+            "url": "https://twitter.com/JoshConstine",
+            "__meta": {
+                "screenName": "JoshConstine",
+                "profileImage": "https://pbs.twimg.com/profile_images/1003329836574654464/pDmyoRm9_400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/19563366/1536521506/1500x500",
+                "name": "Josh Constine",
+                "bio": "I fight for the user. Editor-At-Large @TechCrunch. Send me news tips & crazy rants via DM or josh at techcrunch",
+                "userMentions": [
+                    {
+                        "screenName": "TechCrunch",
+                        "indices": [
+                            38,
+                            49
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "urls": [],
+                "location": "Mission SF, CA",
+                "url": "http://techcrunch.com/2019/01/29/facebook-project-atlas/",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 32751,
+                "followingCount": 2181,
+                "followerCount": 64511,
+                "likeCount": 45590
+            }
+        },
+        "twitter::bterlson": {
+            "id": "twitter::bterlson",
+            "username": "bterlson",
+            "pic": "https://pbs.twimg.com/profile_images/452191205011374081/-R2DkxaD_400x400.jpeg",
+            "url": "https://twitter.com/bterlson",
+            "__meta": {
+                "screenName": "bterlson",
+                "profileImage": "https://pbs.twimg.com/profile_images/452191205011374081/-R2DkxaD_400x400.jpeg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/2178685814/1494958983/1500x500",
+                "name": "bterlson.d.ts",
+                "bio": "JavaScript, TypeScript, Azure, ECMA TC39 co-chair nee ECMA262 editor-in-chief. Microsoft employee but my opinions are my own. http://pronoun.is/he ",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://pronoun.is/he",
+                        "indices": [
+                            126,
+                            146
+                        ]
+                    }
+                ],
+                "location": "Seattle",
+                "url": "https://github.com/bterlson",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 3353,
+                "followingCount": 557,
+                "followerCount": 6770,
+                "likeCount": 2528
+            }
+        },
+        "twitter::ploeh": {
+            "id": "twitter::ploeh",
+            "username": "ploeh",
+            "pic": "https://pbs.twimg.com/profile_images/530462638401019904/lIbjqEDL_400x400.jpeg",
+            "url": "https://twitter.com/ploeh",
+            "__meta": {
+                "screenName": "ploeh",
+                "profileImage": "https://pbs.twimg.com/profile_images/530462638401019904/lIbjqEDL_400x400.jpeg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/43748484/1551797564/1500x500",
+                "name": "Mark Seemann",
+                "bio": "Danish software design",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "Copenhagen",
+                "url": "http://blog.ploeh.dk",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 20668,
+                "followingCount": 155,
+                "followerCount": 11419,
+                "likeCount": 129
+            }
+        },
+        "twitter::GettySport": {
+            "id": "twitter::GettySport",
+            "username": "GettySport",
+            "pic": "https://pbs.twimg.com/profile_images/926523545064214528/Cbk7DAFj_400x400.jpg",
+            "url": "https://twitter.com/GettySport",
+            "__meta": {
+                "screenName": "GettySport",
+                "profileImage": "https://pbs.twimg.com/profile_images/926523545064214528/Cbk7DAFj_400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/872185597/1531748426/1500x500",
+                "name": "Getty Images Sport",
+                "bio": "Follow us ➡️ http://instagram.com/gettysport ",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://instagram.com/gettysport",
+                        "indices": [
+                            13,
+                            44
+                        ]
+                    }
+                ],
+                "location": "Global",
+                "url": "http://gtty.im/QnU9LML",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 13988,
+                "followingCount": 13214,
+                "followerCount": 931540,
+                "likeCount": 5570
+            }
+        },
+        "twitter::jbmoorephoto": {
+            "id": "twitter::jbmoorephoto",
+            "username": "jbmoorephoto",
+            "pic": "https://pbs.twimg.com/profile_images/3220638853/bbf975997de84ded4e7162a17bfc3090_400x400.jpeg",
+            "url": "https://twitter.com/jbmoorephoto",
+            "__meta": {
+                "screenName": "jbmoorephoto",
+                "profileImage": "https://pbs.twimg.com/profile_images/3220638853/bbf975997de84ded4e7162a17bfc3090_400x400.jpeg",
+                "name": "John Moore",
+                "bio": "Getty Images Staff Photographer/Special Correspondent, based in NYC. His book - Undocumented: Immigration and the Militarization of the US-Mexico Border.",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "New York",
+                "url": "http://amzn.to/2FuFXY0",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 600,
+                "followingCount": 168,
+                "followerCount": 14805,
+                "likeCount": 1286
+            }
+        },
+        "twitter::GettyVIP": {
+            "id": "twitter::GettyVIP",
+            "username": "GettyVIP",
+            "pic": "https://pbs.twimg.com/profile_images/830575467711307777/4yIR-n2n_400x400.jpg",
+            "url": "https://twitter.com/GettyVIP",
+            "__meta": {
+                "screenName": "GettyVIP",
+                "profileImage": "https://pbs.twimg.com/profile_images/830575467711307777/4yIR-n2n_400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/211286498/1551167098/1500x500",
+                "name": "Getty Images VIP",
+                "bio": "Follow us ➡️ http://Instagram.com/gettyentertainment … for more!",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://Instagram.com/gettyentertainment",
+                        "indices": [
+                            13,
+                            52
+                        ]
+                    }
+                ],
+                "location": "Global",
+                "url": "https://www.gettyimages.com/editorial-images/entertainment",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 11968,
+                "followingCount": 1213,
+                "followerCount": 18000,
+                "likeCount": 294
+            }
+        },
+        "twitter::AFPphoto": {
+            "id": "twitter::AFPphoto",
+            "username": "AFPphoto",
+            "pic": "https://pbs.twimg.com/profile_images/557221008612941824/8vXdPo4e_400x400.jpeg",
+            "url": "https://twitter.com/AFPphoto",
+            "__meta": {
+                "screenName": "AFPphoto",
+                "profileImage": "https://pbs.twimg.com/profile_images/557221008612941824/8vXdPo4e_400x400.jpeg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/868112707/1420539935/1500x500",
+                "name": "AFP Photo",
+                "bio": "AFP Photo's official Twitter account. Tweeting news and features from Agence France-Presse's global photo network",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "worldwide",
+                "url": "https://www.afp.com/en",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 19277,
+                "followingCount": 341,
+                "followerCount": 116626,
+                "likeCount": 197
+            }
+        },
+        "twitter::GettyImagesNews": {
+            "id": "twitter::GettyImagesNews",
+            "username": "GettyImagesNews",
+            "pic": "https://pbs.twimg.com/profile_images/930847173562028039/AQwDde3X_400x400.jpg",
+            "url": "https://twitter.com/GettyImagesNews",
+            "__meta": {
+                "screenName": "GettyImagesNews",
+                "profileImage": "https://pbs.twimg.com/profile_images/930847173562028039/AQwDde3X_400x400.jpg",
+                "backgroundImage": "https://pbs.twimg.com/profile_banners/22127274/1481149725/1500x500",
+                "name": "Getty Images News",
+                "bio": "The best photojournalists in the world, bringing you the biggest news stories from across the globe",
+                "userMentions": [],
+                "hashtags": [],
+                "urls": [],
+                "location": "Global",
+                "joinDate": "med-undefined-01T00:00:00.000Z",
+                "tweetCount": 20750,
+                "followingCount": 8836,
+                "followerCount": 90874,
+                "likeCount": 436
+            }
+        }
+    }
+}

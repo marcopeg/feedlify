@@ -1,0 +1,40 @@
+{
+  "name": "@feedlify/git",
+  "version": "0.0.0",
+  "description": "Git utilities for NodeJS",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-dir lib",
+    "start": "./node_modules/.bin/babel --watch src --out-dir lib",
+    "test": "./node_modules/.bin/jest -i",
+    "release": "npm run build && npm publish --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feedlify/git.git"
+  },
+  "keywords": [
+    "feedlify",
+    "git",
+    "githubs",
+    "clone",
+    "commit",
+    "push",
+    "pull",
+    "branch"
+  ],
+  "author": "Marco Pegoraro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feedlify/git/issues"
+  },
+  "homepage": "https://github.com/feedlify/git#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "fs-extra": "^7.0.1",
+    "jest": "^24.5.0",
+    "jest-fetch-mock": "^2.1.1"
+  }
+}
