@@ -3,7 +3,7 @@
 
 This module fetches Twitter public data:
 
-    yarn add @feedlifly/source-twitter
+    yarn add @feedlify/source-twitter
 
 You can use `sourceTwitter` to scrape multiple profiles at the same time:
 
@@ -52,7 +52,7 @@ The resulting dataset is organized as follow:
         }
     }
 
-`timeline` contains a list of contents as feedlify normalized data structure.  
+`timeline` contains a list of contents as feedlify normalized data structure.
 The items are sorted by date from the most recent.
 
 You can use `timeline.[].author` as index in the `profiles` bucket to retrieve

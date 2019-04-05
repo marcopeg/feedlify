@@ -1,7 +1,7 @@
 {
-  "name": "@feedlify/target-git",
+  "name": "@feedlify/target-fs",
   "version": "0.0.0",
-  "description": "Keeps up-to-date a git based feed definition",
+  "description": "Keeps up-to-date a feed from a local file system",
   "main": "lib/index.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-dir lib",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feedlify/target-git.git"
+    "url": "git+https://github.com/marcopeg/feedlify.git"
   },
   "keywords": [
     "feedlify",
@@ -23,9 +23,9 @@
   "author": "Marco Pegoraro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/feedlify/target-git/issues"
+    "url": "https://github.com/marcopeg/feedlify/issues"
   },
-  "homepage": "https://github.com/feedlify/target-git#readme",
+  "homepage": "https://github.com/marcopeg/feedlify/target-fs/README.md",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.4.0",

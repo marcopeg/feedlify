@@ -1,6 +1,6 @@
 import sourceTwitter, { fetchTimeline, fetchProfile } from '../lib/index'
 
-describe('LiveData', () => {
+describe.skip('LiveData', () => {
     jest.setTimeout(60000)
     test('it should work', async () => {
         const data = await sourceTwitter([
