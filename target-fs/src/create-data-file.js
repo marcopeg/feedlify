@@ -6,7 +6,7 @@ import { getFeedDatespan } from './get-datespan-feed'
 
 export const createDataFile = async (root) => {
     const feedDefinition = await fs.readJSON(path.join(root, 'feed.json'))
-    const data = aggregateFeed(feedDefinition)
+    const data = await aggregateFeed(feedDefinition)
     const ctime = new Date()
     
     // log the file data

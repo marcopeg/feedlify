@@ -28,7 +28,7 @@ export const updateRepo = async (root, { limit } = {}) => {
     
     // calculate which feeds to update
     const feeds = indexBefore.feeds.slice(0, limit || 1)
-    await updateFeeds(feeds)
+    const updatedFeed = await updateFeeds(feeds)
 
     // update the repository index with the new informations
     const indexAfter = await computeRepoIndex(root)
