@@ -8,11 +8,5 @@
  * It should keep in sync all the index files involved in the process.
  */
 
-import { createDataFile } from './create-data-file'
-
-export default async (root) => {
-    const report = createDataFile(root)
-    
-    
-    return report
-}
+import { updateRepo } from './update-repo'
+export default updateRepo
