@@ -35,5 +35,6 @@ describe('updateFeed', () => {
         expect(fs.existsSync('/tmp/feedly/target-fs/repo2/general/index.json')).toBe(true)
         expect(report.data.length).toBe(2)
         expect(report.count).toBe(104)
+        console.log(report)
     })
 })

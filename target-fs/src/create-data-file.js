@@ -21,7 +21,7 @@ export const createDataFile = async (root) => {
     
     return {
         ctime: new Date(),
-        fpath: filePath,
+        fname: fileName,
         from: fromDate,
         to: toDate,
         count: data.timeline.length,
