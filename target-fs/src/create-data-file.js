@@ -7,20 +7,24 @@ import { getFeedDatespan } from './get-datespan-feed'
 export const createDataFile = async (root) => {
     const feedDefinition = await fs.readJSON(path.join(root, 'feed.json'))
     const data = aggregateFeed(feedDefinition)
+    const ctime = new Date()
     
     // log the file data
     const fileBasepath = path.join(root, 'data')
-    const fileName = `${moment().format('YYYYMMDDhhmmss')}.json`
+    const fileName = `${moment(ctime).format('YYYYMMDDhhmmss')}.json`
     const filePath = path.join(fileBasepath, fileName)
 
     await fs.ensureDir(fileBasepath)
-    await fs.writeJSON(filePath, data, { spaces: 2 })
+    await fs.writeJSON(filePath, {
+        ...data,
+        ctime,
+    }, { spaces: 2 })
 
     // calculate the time span
     const [ fromDate, toDate ] = getFeedDatespan(data.timeline)
     
     return {
-        ctime: new Date(),
+        ctime,
         fname: fileName,
         from: fromDate,
         to: toDate,
