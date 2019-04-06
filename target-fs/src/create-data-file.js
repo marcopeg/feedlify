@@ -4,13 +4,16 @@ import moment from 'moment'
 import aggregateFeed from '@feedlify/feed-aggregator'
 import { getDatespan } from './get-datespan'
 
-export default async (root) => {
+export const createDataFile = async (root) => {
     const feedDefinition = await fs.readJSON(path.join(root, 'feed.json'))
     const data = aggregateFeed(feedDefinition)
     
     // log the file data
-    const fileName = `data-${moment().format('YYYYMMDDhhmmss')}.json`
-    const filePath = path.join(root, fileName)
+    const fileBasepath = path.join(root, 'data')
+    const fileName = `${moment().format('YYYYMMDDhhmmss')}.json`
+    const filePath = path.join(fileBasepath, fileName)
+
+    await fs.ensureDir(fileBasepath)
     await fs.writeJSON(filePath, data)
 
     // calculate the time span
