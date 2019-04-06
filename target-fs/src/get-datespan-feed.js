@@ -4,7 +4,11 @@
  * 
  */
 
-export const getDatespan = (items) => {
+export const getFeedDatespan = (items) => {
+    if (!items.length) {
+        return [ null, null ]
+    }
+
     const localItems = [...items]
     localItems.sort((a, b) => b.ctime - a.ctime)
 

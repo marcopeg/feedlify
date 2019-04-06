@@ -2,7 +2,7 @@ import fs from 'fs-extra'
 import path from 'path'
 import moment from 'moment'
 import aggregateFeed from '@feedlify/feed-aggregator'
-import { getDatespan } from './get-datespan'
+import { getFeedDatespan } from './get-datespan-feed'
 
 export const createDataFile = async (root) => {
     const feedDefinition = await fs.readJSON(path.join(root, 'feed.json'))
@@ -14,16 +14,17 @@ export const createDataFile = async (root) => {
     const filePath = path.join(fileBasepath, fileName)
 
     await fs.ensureDir(fileBasepath)
-    await fs.writeJSON(filePath, data)
+    await fs.writeJSON(filePath, data, { spaces: 2 })
 
     // calculate the time span
-    const [ fromDate, toDate ] = getDatespan(data.timeline)
+    const [ fromDate, toDate ] = getFeedDatespan(data.timeline)
     
     return {
-        fileName,
-        filePath,
-        fromDate,
-        toDate,
+        ctime: new Date(),
+        fpath: filePath,
+        from: fromDate,
+        to: toDate,
+        count: data.timeline.length,
         data,
     }
 }

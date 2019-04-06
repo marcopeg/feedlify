@@ -24,9 +24,9 @@ describe('LiveData', () => {
 
     test('it should generate th new data file', async () => {
         const report = await createDataFile(path.join('/tmp/feedly/target-fs/repo1', 'general'))
-        expect(report).toHaveProperty('filePath')
-        expect(fs.existsSync(report.filePath)).toBe(true)
-        expect(report.fromDate).toEqual(new Date('2019-03-02T18:20:20.000Z'))
-        expect(report.toDate).toEqual(new Date('2019-04-05T16:07:26.000Z'))
+        expect(report).toHaveProperty('fpath')
+        expect(fs.existsSync(report.fpath)).toBe(true)
+        expect(report.from).toEqual(new Date('2019-03-02T18:20:20.000Z'))
+        expect(report.to).toEqual(new Date('2019-04-05T16:07:26.000Z'))
     })
 })
