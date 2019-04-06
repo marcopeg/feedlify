@@ -46,5 +46,5 @@ link: clean-lock
 	(cd ./feed-aggregator && pwd && npm link .)
 	(cd ./target-fs && npm link @feedlify/feed-aggregator)
 
-init: install link build
+init: install build link
 reset: clean init
