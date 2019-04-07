@@ -1,6 +1,6 @@
 {
   "name": "@feedlify/target-fs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Keeps up-to-date a @feedlify repository from a local file system",
   "main": "lib/index.js",
   "scripts": {
@@ -30,11 +30,11 @@
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
-    "fs-extra": "^7.0.1",
     "jest": "^24.5.0",
     "jest-fetch-mock": "^2.1.1"
   },
   "dependencies": {
+    "fs-extra": "^7.0.1",
     "@feedlify/feed-aggregator": "^0.0.0",
     "moment": "^2.24.0"
   }
