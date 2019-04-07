@@ -1,7 +1,7 @@
 {
-  "name": "@feedlify/git",
-  "version": "0.0.1",
-  "description": "Git utilities for NodeJS",
+  "name": "@feedlify/target-git",
+  "version": "0.0.0",
+  "description": "Keeps up-to-date a @feedlify repository from a git compatible location",
   "main": "lib/index.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-dir lib",
@@ -11,24 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feedlify/git.git"
+    "url": "git+https://github.com/marcopeg/feedlify.git"
   },
   "keywords": [
     "feedlify",
+    "feed",
+    "aggregator",
     "git",
-    "githubs",
-    "clone",
-    "commit",
-    "push",
-    "pull",
-    "branch"
+    "github"
   ],
   "author": "Marco Pegoraro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/feedlify/git/issues"
+    "url": "https://github.com/marcopeg/feedlify/issues"
   },
-  "homepage": "https://github.com/feedlify/git#readme",
+  "homepage": "https://github.com/marcopeg/feedlify/target-git/README.md",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.4.0",
@@ -36,5 +33,9 @@
     "fs-extra": "^7.0.1",
     "jest": "^24.5.0",
     "jest-fetch-mock": "^2.1.1"
+  },
+  "dependencies": {
+    "@feedlify/target-fs": "^0.0.1",
+    "@feedlify/git": "^0.0.1"
   }
 }

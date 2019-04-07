@@ -11,7 +11,7 @@ export const push = async (git, options) => {
     const cmd = [
         `git push`,
         `https://${username}:${password}@github.com/${repository}.git`,
-        branch,
+        branch || 'master',
     ].join(' ')
 
     return spawn(cmd, cmdOptions)

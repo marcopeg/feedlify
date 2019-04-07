@@ -1,7 +1,7 @@
 {
   "name": "@feedlify/target-fs",
-  "version": "0.0.0",
-  "description": "Keeps up-to-date a feed from a local file system",
+  "version": "0.0.1",
+  "description": "Keeps up-to-date a @feedlify repository from a local file system",
   "main": "lib/index.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-dir lib",

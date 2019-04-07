@@ -5,7 +5,7 @@ export const pull = (git, options) => {
 
     const cmd = [
         `git pull`,
-        `origin ${branch}`,
+        `origin ${branch || 'master'}`,
     ].join(' ')
 
     return spawn(cmd, {

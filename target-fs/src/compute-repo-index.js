@@ -21,6 +21,8 @@ const getFeeds = (root) =>
         const feeds = (await fs.readdir(root))
             .filter(entry => (
                 entry !== 'index.json'
+                && entry !== 'README.md'
+                && entry !== 'docs'
                 && entry.substr(0, 1) !== '.'
             ))
 
