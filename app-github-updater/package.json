@@ -21,6 +21,7 @@
   "dependencies": {
     "@babel/core": "^7.3.3",
     "@babel/polyfill": "^7.0.0",
+    "@feedlify/feed-aggregator": "^0.0.0",
     "@feedlify/target-git": "^0.0.2",
     "@marcopeg/hooks": "^0.2.2",
     "@marcopeg/utils": "^1.12.0",

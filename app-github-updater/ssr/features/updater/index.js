@@ -1,8 +1,10 @@
 import moment from 'moment'
-import targetGit from '@feedlify/target-git'
 import { START_FEATURE } from '@marcopeg/hooks'
 import { FEATURE_NAME } from './hooks'
 import { logInfo, logError, logDebug, logVerbose } from 'services/logger'
+
+import targetGit from '@feedlify/target-git'
+// import targetGit from 'lib/target-git'
 
 export const register = ({ registerAction }) =>
     registerAction({

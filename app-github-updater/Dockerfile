@@ -60,6 +60,18 @@ ADD package.json /usr/src/app
 ADD index.js /usr/src/app
 
 
+# Install GIT
+RUN apk update && apk upgrade && \
+    apk add --no-cache bash git openssh
+
+# Let gyp modules
+RUN apk add --no-cache --virtual .gyp \
+        python \
+        make \
+        g++ \
+    && apk del .gyp
+
+
 
 #
 # Startup Info
